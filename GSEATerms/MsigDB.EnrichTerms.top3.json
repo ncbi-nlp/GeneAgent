@@ -1,0 +1,786 @@
+[
+    [
+        {
+            "name": "Progeria associated lipodystrophy",
+            "native": "WP:WP5103"
+        },
+        {
+            "name": "Progressive clavicular acroosteolysis",
+            "native": "HP:0000905"
+        },
+        {
+            "name": "Progeroid facial appearance",
+            "native": "HP:0005328"
+        }
+    ],
+    [
+        {
+            "name": "protein localization to peroxisome",
+            "native": "GO:0072662"
+        },
+        {
+            "name": "establishment of protein localization to peroxisome",
+            "native": "GO:0072663"
+        },
+        {
+            "name": "peroxisomal membrane transport",
+            "native": "GO:0015919"
+        }
+    ],
+    [
+        {
+            "name": "Aerobic glycolysis",
+            "native": "WP:WP4629"
+        },
+        {
+            "name": "Glycolysis and gluconeogenesis",
+            "native": "WP:WP534"
+        },
+        {
+            "name": "glycolytic process",
+            "native": "GO:0006096"
+        }
+    ],
+    [
+        {
+            "name": "Sensory ataxia",
+            "native": "HP:0010871"
+        },
+        {
+            "name": "Impaired proprioception",
+            "native": "HP:0010831"
+        },
+        {
+            "name": "Somatic sensory dysfunction",
+            "native": "HP:0003474"
+        }
+    ],
+    [
+        {
+            "name": "pinocytosis",
+            "native": "GO:0006907"
+        },
+        {
+            "name": "endocytosis",
+            "native": "GO:0006897"
+        },
+        {
+            "name": "import into cell",
+            "native": "GO:0098657"
+        }
+    ],
+    [
+        {
+            "name": "regulation of autophagy",
+            "native": "GO:0010506"
+        },
+        {
+            "name": "autophagy",
+            "native": "GO:0006914"
+        },
+        {
+            "name": "process utilizing autophagic mechanism",
+            "native": "GO:0061919"
+        }
+    ],
+    [
+        {
+            "name": "Hyperextensible skin",
+            "native": "HP:0000974"
+        },
+        {
+            "name": "Atrophic scars",
+            "native": "HP:0001075"
+        },
+        {
+            "name": "Scarring",
+            "native": "HP:0100699"
+        }
+    ],
+    [
+        {
+            "name": "Pyridoxine-responsive sideroblastic anemia",
+            "native": "HP:0005522"
+        },
+        {
+            "name": "Absent testis",
+            "native": "HP:0010469"
+        },
+        {
+            "name": "Aplasia/Hypoplasia of the uvula",
+            "native": "HP:0010293"
+        }
+    ],
+    [
+        {
+            "name": "molecular sequestering activity",
+            "native": "GO:0140313"
+        },
+        {
+            "name": "protein sequestering activity",
+            "native": "GO:0140311"
+        },
+        {
+            "name": "metal ion sequestering activity",
+            "native": "GO:0140487"
+        }
+    ],
+    [
+        {
+            "name": "regulation of presynaptic membrane potential",
+            "native": "GO:0099505"
+        },
+        {
+            "name": "monoatomic ion channel complex",
+            "native": "GO:0034702"
+        },
+        {
+            "name": "gated channel activity",
+            "native": "GO:0022836"
+        }
+    ],
+    [
+        {
+            "name": "Signaling by NOTCH",
+            "native": "REAC:R-HSA-157118"
+        },
+        {
+            "name": "Signaling by NOTCH1",
+            "native": "REAC:R-HSA-1980143"
+        },
+        {
+            "name": "Notch signaling pathway",
+            "native": "KEGG:04330"
+        }
+    ],
+    [
+        {
+            "name": "calcium ion transmembrane transport",
+            "native": "GO:0070588"
+        },
+        {
+            "name": "calcium ion transmembrane transporter activity",
+            "native": "GO:0015085"
+        },
+        {
+            "name": "calcium ion transport",
+            "native": "GO:0006816"
+        }
+    ],
+    [
+        {
+            "name": "glycosaminoglycan binding",
+            "native": "GO:0005539"
+        },
+        {
+            "name": "heparin binding",
+            "native": "GO:0008201"
+        },
+        {
+            "name": "sulfur compound binding",
+            "native": "GO:1901681"
+        }
+    ],
+    [
+        {
+            "name": "system development",
+            "native": "GO:0048731"
+        },
+        {
+            "name": "anatomical structure development",
+            "native": "GO:0048856"
+        },
+        {
+            "name": "multicellular organism development",
+            "native": "GO:0007275"
+        }
+    ],
+    [
+        {
+            "name": "Regulation of beta-cell development",
+            "native": "REAC:R-HSA-186712"
+        },
+        {
+            "name": "Maturity onset diabetes of the young",
+            "native": "KEGG:04950"
+        },
+        {
+            "name": "Regulation of gene expression in beta cells",
+            "native": "REAC:R-HSA-210745"
+        }
+    ],
+    [
+        {
+            "name": "Signaling by NOTCH1",
+            "native": "REAC:R-HSA-1980143"
+        },
+        {
+            "name": "Signaling by NOTCH1 in Cancer",
+            "native": "REAC:R-HSA-2644603"
+        },
+        {
+            "name": "Signaling by NOTCH1 PEST Domain Mutants in Cancer",
+            "native": "REAC:R-HSA-2644602"
+        }
+    ],
+    [
+        {
+            "name": "cell periphery",
+            "native": "GO:0071944"
+        },
+        {
+            "name": "plasma membrane",
+            "native": "GO:0005886"
+        },
+        {
+            "name": "cell surface",
+            "native": "GO:0009986"
+        }
+    ],
+    [
+        {
+            "name": "response to oxidative stress",
+            "native": "GO:0006979"
+        },
+        {
+            "name": "antioxidant activity",
+            "native": "GO:0016209"
+        },
+        {
+            "name": "cellular oxidant detoxification",
+            "native": "GO:0098869"
+        }
+    ],
+    [
+        {
+            "name": "Signaling by TGFB family members",
+            "native": "REAC:R-HSA-9006936"
+        },
+        {
+            "name": "transmembrane receptor protein serine/threonine kinase signaling pathway",
+            "native": "GO:0007178"
+        },
+        {
+            "name": "transforming growth factor beta receptor superfamily signaling pathway",
+            "native": "GO:0141091"
+        }
+    ],
+    [
+        {
+            "name": "meiosis I",
+            "native": "GO:0007127"
+        },
+        {
+            "name": "meiosis I cell cycle process",
+            "native": "GO:0061982"
+        },
+        {
+            "name": "meiotic nuclear division",
+            "native": "GO:0140013"
+        }
+    ],
+    [
+        {
+            "name": "T cell proliferation",
+            "native": "GO:0042098"
+        },
+        {
+            "name": "lymphocyte proliferation",
+            "native": "GO:0046651"
+        },
+        {
+            "name": "mononuclear cell proliferation",
+            "native": "GO:0032943"
+        }
+    ],
+    [
+        {
+            "name": "Cholesterol metabolism with Bloch and Kandutsch Russell pathways",
+            "native": "WP:WP4718"
+        },
+        {
+            "name": "Cholesterol biosynthesis",
+            "native": "REAC:R-HSA-191273"
+        },
+        {
+            "name": "Enterocyte cholesterol metabolism",
+            "native": "WP:WP5333"
+        }
+    ],
+    [
+        {
+            "name": "cytokine-mediated signaling pathway",
+            "native": "GO:0019221"
+        },
+        {
+            "name": "response to cytokine",
+            "native": "GO:0034097"
+        },
+        {
+            "name": "cellular response to cytokine stimulus",
+            "native": "GO:0071345"
+        }
+    ],
+    [
+        {
+            "name": "hydrolase activity, hydrolyzing O-glycosyl compounds",
+            "native": "GO:0004553"
+        },
+        {
+            "name": "hydrolase activity, acting on glycosyl bonds",
+            "native": "GO:0016798"
+        },
+        {
+            "name": "carbohydrate metabolic process",
+            "native": "GO:0005975"
+        }
+    ],
+    [
+        {
+            "name": "antigen binding",
+            "native": "GO:0003823"
+        },
+        {
+            "name": "immunoglobulin mediated immune response",
+            "native": "GO:0016064"
+        },
+        {
+            "name": "B cell mediated immunity",
+            "native": "GO:0019724"
+        }
+    ],
+    [
+        {
+            "name": "vesicle-mediated transport",
+            "native": "GO:0016192"
+        },
+        {
+            "name": "bounding membrane of organelle",
+            "native": "GO:0098588"
+        },
+        {
+            "name": "cytoplasmic vesicle",
+            "native": "GO:0031410"
+        }
+    ],
+    [
+        {
+            "name": "response to biotic stimulus",
+            "native": "GO:0009607"
+        },
+        {
+            "name": "response to other organism",
+            "native": "GO:0051707"
+        },
+        {
+            "name": "response to external biotic stimulus",
+            "native": "GO:0043207"
+        }
+    ],
+    [
+        {
+            "name": "cytoplasm",
+            "native": "GO:0005737"
+        },
+        {
+            "name": "prostate; glandular cells[High]",
+            "native": "HPA:0390053"
+        },
+        {
+            "name": "prostate; glandular cells[\u2265Medium]",
+            "native": "HPA:0390052"
+        }
+    ],
+    [
+        {
+            "name": "microbody",
+            "native": "GO:0042579"
+        },
+        {
+            "name": "peroxisome",
+            "native": "GO:0005777"
+        },
+        {
+            "name": "Peroxisome",
+            "native": "KEGG:04146"
+        }
+    ],
+    [
+        {
+            "name": "intracellular signal transduction",
+            "native": "GO:0035556"
+        },
+        {
+            "name": "protein phosphorylation",
+            "native": "GO:0006468"
+        },
+        {
+            "name": "phosphorylation",
+            "native": "GO:0016310"
+        }
+    ],
+    [
+        {
+            "name": "microbody",
+            "native": "GO:0042579"
+        },
+        {
+            "name": "peroxisome",
+            "native": "GO:0005777"
+        },
+        {
+            "name": "Peroxisome",
+            "native": "KEGG:04146"
+        }
+    ],
+    [
+        {
+            "name": "Unfolded Protein Response (UPR)",
+            "native": "REAC:R-HSA-381119"
+        },
+        {
+            "name": "IRE1alpha activates chaperones",
+            "native": "REAC:R-HSA-381070"
+        },
+        {
+            "name": "XBP1(S) activates chaperone genes",
+            "native": "REAC:R-HSA-381038"
+        }
+    ],
+    [
+        {
+            "name": "reproductive process",
+            "native": "GO:0022414"
+        },
+        {
+            "name": "reproduction",
+            "native": "GO:0000003"
+        },
+        {
+            "name": "sexual reproduction",
+            "native": "GO:0019953"
+        }
+    ],
+    [
+        {
+            "name": "Complement and coagulation cascades",
+            "native": "KEGG:04610"
+        },
+        {
+            "name": "extracellular space",
+            "native": "GO:0005615"
+        },
+        {
+            "name": "extracellular region",
+            "native": "GO:0005576"
+        }
+    ],
+    [
+        {
+            "name": "Nucleotide excision repair",
+            "native": "KEGG:03420"
+        },
+        {
+            "name": "HIV Life Cycle",
+            "native": "REAC:R-HSA-162587"
+        },
+        {
+            "name": "Late Phase of HIV Life Cycle",
+            "native": "REAC:R-HSA-162599"
+        }
+    ],
+    [
+        {
+            "name": "carboxylic acid metabolic process",
+            "native": "GO:0019752"
+        },
+        {
+            "name": "small molecule metabolic process",
+            "native": "GO:0044281"
+        },
+        {
+            "name": "oxoacid metabolic process",
+            "native": "GO:0043436"
+        }
+    ],
+    [
+        {
+            "name": "apoptotic process",
+            "native": "GO:0006915"
+        },
+        {
+            "name": "programmed cell death",
+            "native": "GO:0012501"
+        },
+        {
+            "name": "cell death",
+            "native": "GO:0008219"
+        }
+    ],
+    [
+        {
+            "name": "regulation of multicellular organismal process",
+            "native": "GO:0051239"
+        },
+        {
+            "name": "cell activation",
+            "native": "GO:0001775"
+        },
+        {
+            "name": "leukocyte activation",
+            "native": "GO:0045321"
+        }
+    ],
+    [
+        {
+            "name": "cytoskeleton organization",
+            "native": "GO:0007010"
+        },
+        {
+            "name": "cytoskeleton",
+            "native": "GO:0005856"
+        },
+        {
+            "name": "organelle organization",
+            "native": "GO:0006996"
+        }
+    ],
+    [
+        {
+            "name": "small molecule metabolic process",
+            "native": "GO:0044281"
+        },
+        {
+            "name": "mitochondrion",
+            "native": "GO:0005739"
+        },
+        {
+            "name": "Metabolism",
+            "native": "REAC:R-HSA-1430728"
+        }
+    ],
+    [
+        {
+            "name": "immune system process",
+            "native": "GO:0002376"
+        },
+        {
+            "name": "immune response",
+            "native": "GO:0006955"
+        },
+        {
+            "name": "regulation of immune system process",
+            "native": "GO:0002682"
+        }
+    ],
+    [
+        {
+            "name": "cell adhesion",
+            "native": "GO:0007155"
+        },
+        {
+            "name": "anchoring junction",
+            "native": "GO:0070161"
+        },
+        {
+            "name": "cell junction",
+            "native": "GO:0030054"
+        }
+    ],
+    [
+        {
+            "name": "endopeptidase activity",
+            "native": "GO:0004175"
+        },
+        {
+            "name": "proteolysis",
+            "native": "GO:0006508"
+        },
+        {
+            "name": "peptidase activity",
+            "native": "GO:0008233"
+        }
+    ],
+    [
+        {
+            "name": "Cell Cycle",
+            "native": "REAC:R-HSA-1640170"
+        },
+        {
+            "name": "DNA metabolic process",
+            "native": "GO:0006259"
+        },
+        {
+            "name": "cell cycle process",
+            "native": "GO:0022402"
+        }
+    ],
+    [
+        {
+            "name": "extracellular matrix",
+            "native": "GO:0031012"
+        },
+        {
+            "name": "external encapsulating structure",
+            "native": "GO:0030312"
+        },
+        {
+            "name": "collagen-containing extracellular matrix",
+            "native": "GO:0062023"
+        }
+    ],
+    [
+        {
+            "name": "cell cycle",
+            "native": "GO:0007049"
+        },
+        {
+            "name": "mitotic cell cycle process",
+            "native": "GO:1903047"
+        },
+        {
+            "name": "mitotic cell cycle",
+            "native": "GO:0000278"
+        }
+    ],
+    [
+        {
+            "name": "Metabolism of carbohydrates",
+            "native": "REAC:R-HSA-71387"
+        },
+        {
+            "name": "carbohydrate metabolic process",
+            "native": "GO:0005975"
+        },
+        {
+            "name": "carbohydrate derivative metabolic process",
+            "native": "GO:1901135"
+        }
+    ],
+    [
+        {
+            "name": "porphyrin-containing compound metabolic process",
+            "native": "GO:0006778"
+        },
+        {
+            "name": "Reticulocytosis",
+            "native": "HP:0001923"
+        },
+        {
+            "name": "tetrapyrrole metabolic process",
+            "native": "GO:0033013"
+        }
+    ],
+    [
+        {
+            "name": "carbohydrate metabolic process",
+            "native": "GO:0005975"
+        },
+        {
+            "name": "Metabolism of carbohydrates",
+            "native": "REAC:R-HSA-71387"
+        },
+        {
+            "name": "monosaccharide metabolic process",
+            "native": "GO:0005996"
+        }
+    ],
+    [
+        {
+            "name": "inflammatory response",
+            "native": "GO:0006954"
+        },
+        {
+            "name": "immune system process",
+            "native": "GO:0002376"
+        },
+        {
+            "name": "defense response",
+            "native": "GO:0006952"
+        }
+    ],
+    [
+        {
+            "name": "immune system process",
+            "native": "GO:0002376"
+        },
+        {
+            "name": "response to biotic stimulus",
+            "native": "GO:0009607"
+        },
+        {
+            "name": "response to other organism",
+            "native": "GO:0051707"
+        }
+    ],
+    [
+        {
+            "name": "cytoplasm",
+            "native": "GO:0005737"
+        },
+        {
+            "name": "small molecule metabolic process",
+            "native": "GO:0044281"
+        },
+        {
+            "name": "small molecule biosynthetic process",
+            "native": "GO:0044283"
+        }
+    ],
+    [
+        {
+            "name": "muscle system process",
+            "native": "GO:0003012"
+        },
+        {
+            "name": "muscle contraction",
+            "native": "GO:0006936"
+        },
+        {
+            "name": "muscle structure development",
+            "native": "GO:0061061"
+        }
+    ],
+    [
+        {
+            "name": "mitochondrion",
+            "native": "GO:0005739"
+        },
+        {
+            "name": "mitochondrial protein-containing complex",
+            "native": "GO:0098798"
+        },
+        {
+            "name": "mitochondrial membrane",
+            "native": "GO:0031966"
+        }
+    ],
+    [
+        {
+            "name": "programmed cell death",
+            "native": "GO:0012501"
+        },
+        {
+            "name": "cell death",
+            "native": "GO:0008219"
+        },
+        {
+            "name": "apoptotic process",
+            "native": "GO:0006915"
+        }
+    ],
+    [
+        {
+            "name": "response to organic substance",
+            "native": "GO:0010033"
+        },
+        {
+            "name": "cellular response to chemical stimulus",
+            "native": "GO:0070887"
+        },
+        {
+            "name": "response to chemical",
+            "native": "GO:0042221"
+        }
+    ]
+]
