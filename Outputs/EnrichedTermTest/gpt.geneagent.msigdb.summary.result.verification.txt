@@ -1,1 +1,447 @@
+Summary: The gene set ZMPSTE24, BANF1, WRN, LMNA is associated with Progerin-Induced Aging. The genes are involved in various functions related to aging and age-related diseases, such as Progeria-associated lipodystrophy, Progressive clavicular acroosteolysis, Progeroid facial appearance, Osteolytic defects of the distal phalanges of the hand, and Familial partial lipodystrophy. 
 
+Mechanism: ZMPSTE24 is a zinc metalloproteinase involved in the post-translational processing of prelamin A to mature lamin A. BANF1, also known as barrier-to-autointegration factor, is crucial for nuclear envelope assembly. WRN, a RecQ helicase, is involved in DNA repair and telomere maintenance. LMNA encodes lamin A/C, major components of the nuclear lamina.
+
+Enriched Terms: Progeria-associated lipodystrophy; Progressive clavicular acroosteolysis; Progeroid facial appearance; Osteolytic defects of the distal phalanges of the hand; Familial partial lipodystrophy.
+
+GO Terms: Post-translational protein processing; Nuclear envelope assembly; DNA repair; Telomere maintenance; Nuclear lamina.
+//
+Summary: The gene set PEX1, PEX2, PEX3, PEX4, PEX5, PEX6, PEX7, PEX8 is significantly involved in the process of Peroxisome Biogenesis. This process involves the directed movement and localization of proteins to the peroxisome. The genes encode proteins that form complexes essential for the recycling of PEX5, a cytosolic receptor for peroxisomal matrix proteins, and are involved in the ubiquitination process necessary for protein import into the peroxisome.
+
+Mechanism: The PEX genes encode proteins that are involved in the formation of peroxisomes, a type of organelle involved in various metabolic processes. These proteins are involved in the transport and localization of other proteins within the peroxisome, a process known as peroxisome biogenesis. The PEX1 and PEX6 genes encode proteins that form a complex essential for the recycling of PEX5, a cytosolic receptor for peroxisomal matrix proteins. The PEX4 gene encodes a ubiquitin-conjugating enzyme, suggesting a potential role in the ubiquitination process necessary for protein import into the peroxisome.
+
+Enriched Terms: Protein localization to peroxisome; Protein targeting to peroxisome; Establishment of protein localization to peroxisome; Peroxisomal membrane transport; Peroxisomal transport
+
+GO Terms: Peroxisome biogenesis; Protein localization to peroxisome; Protein targeting to peroxisome; Establishment of protein localization to peroxisome; Peroxisomal transport
+//
+Summary: The provided set of human genes (HK1, GPI, PFKM, ALDOA, TPI1, GAPDH, PGK1, PGAM2, ENO3, PKM) are all significantly involved in the glycolysis process. This is supported by extremely small p-values and high precision values, indicating a high level of statistical significance and accuracy in these associations. 
+
+Mechanism: These genes encode for enzymes that catalyze various steps in the glycolysis pathway. This pathway is a series of reactions that convert glucose into pyruvate, releasing energy in the form of ATP and NADH. For example, HK1 initiates the process by converting glucose to glucose-6-phosphate, GPI converts glucose-6-phosphate into fructose-6-phosphate, PFKM catalyzes the phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate, and so on until PKM catalyzes the final step, transferring a phosphate group from phosphoenolpyruvate to ADP to produce ATP and pyruvate.
+
+Enriched Terms: Aerobic glycolysis; Glycolysis and gluconeogenesis; Glycolytic process; Pyruvate metabolic process; Glycolysis / Gluconeogenesis
+
+GO Terms: glycolytic process; gluconeogenesis; glucose metabolic process; pyruvate metabolic process; one-carbon metabolic process
+//
+Summary: The provided gene set is significantly associated with several biological functions related to sensory perception and movement coordination. These include "Sensory ataxia", "Impaired proprioception", "Somatic sensory dysfunction", "Impaired vibratory sensation", and "Distal sensory impairment". However, none of these functions directly indicate a role in the process of Peripheral Nerve Myelination.
+
+Mechanism: The genes in the set are involved in various processes such as transcription regulation (EGR2), peripheral nerve myelin upkeep (PRX), mitochondrial DNA replication and maintenance (TWNK, POLG), protein homeostasis (DNAJC3), translation (AARS1), nuclear-cytoplasmic transport (KPNA3), degradation of heparan sulfate (NAGLU), and mechanosensation (PIEZO2). However, the specific underlying biological mechanism that links these genes together is not clear from the provided descriptions.
+
+Enriched Terms: Sensory ataxia; Impaired proprioception; Somatic sensory dysfunction; Impaired vibratory sensation; Distal sensory impairment
+
+GO Terms: Transcription regulation; Peripheral nerve myelin upkeep; Mitochondrial DNA replication and maintenance; Protein homeostasis; Translation; Nuclear-cytoplasmic transport; Degradation of heparan sulfate; Mechanosensation
+//
+Summary: The provided gene set is significantly involved in intracellular protein trafficking, particularly processes such as pinocytosis, endocytosis, import into cell, vesicle-mediated transport, and macropinocytosis. These genes are not directly involved in signal transduction. Several genes in the set are also involved in lipid homeostasis and protein degradation.
+
+Mechanism: The genes in this set are involved in various aspects of intracellular protein trafficking. This includes the process of endocytosis, where substances are brought into the cell, and vesicle-mediated transport, where substances are moved around within the cell. Some genes, such as DNM2, are involved in the formation of vesicles, while others, like RAB34, SNX33, and SNX5, are involved in sorting and directing these vesicles to their correct destinations. EHD4 is involved in recycling endosomes back to the plasma membrane. UBE3A is an E3 ubiquitin-protein ligase, which tags proteins for degradation. LRP1 and LDLR are receptors involved in lipid homeostasis, while CD36 is a fatty acid translocase involved in lipid uptake and transport.
+
+Enriched Terms: Intracellular Protein Trafficking; Pinocytosis; Endocytosis; Import into Cell; Vesicle-Mediated Transport; Macropinocytosis; Lipid Homeostasis; Protein Degradation
+
+GO Terms: Intracellular protein transport; Phagocytosis; Endocytosis; Protein transport; Vesicle-mediated transport; Intracellular transport; Lipid transport; Protein degradation
+//
+Summary: The provided gene set is significantly involved in the regulation of autophagy, protein kinase regulator activity, and kinase regulator activity. These processes are related to cell death and survival, potentially including apoptosis. However, there is no direct evidence of involvement in apoptosis regulation or immune response from the enrichment analysis. The genes are also components of the PI3K/AKT/mTOR pathway, which regulates cell growth, proliferation, and survival. Some genes are involved in neuroprotection and cell cycle regulation. 
+
+Mechanism: The underlying biological mechanism seems to be the regulation of autophagy and protein kinase activity, which are processes involved in cell death and survival. The PI3K/AKT/mTOR pathway, which regulates cell growth, proliferation, and survival, also appears to be a significant mechanism. 
+
+Enriched Terms: Protein kinase regulator activity; Kinase regulator activity; Regulation of autophagy; Autophagy; Process utilizing autophagic mechanism
+
+GO Terms: Protein kinase regulator activity; Kinase regulator activity; Regulation of autophagy; Autophagy; Process utilizing autophagic mechanism; PI3K/AKT/mTOR pathway; Neuroprotection; Cell cycle regulation
+//
+Summary: The provided gene set is significantly involved in collagen biosynthesis and modification, as well as skin conditions and scarring. The genes are associated with processes such as collagen synthesis, collagen modification, and the regulation of these processes. 
+
+Mechanism: The genes encode various proteins that play roles in the biosynthesis and modification of collagen, a major component of the extracellular matrix. This includes enzymes that catalyze the hydroxylation of lysyl residues in collagen, enzymes that cleave the N-terminal propeptide of procollagen, and proteins that form the alpha chains of different types of collagen. Some genes are also involved in the glycosylation of collagen, a modification that affects the stability of the collagen molecule. 
+
+Enriched Terms: Collagen biosynthesis and modifying enzymes; Collagen Formation; Extracellular matrix organization; Hyperextensible skin; Atrophic scars; Abnormally lax or hyperextensible skin; Scarring; Dermal atrophy.
+
+GO Terms: Collagen biosynthesis and modifying enzymes R-HSA-1650814; Collagen Formation R-HSA-1474290; Extracellular Matrix Organization R-HSA-1474244.
+//
+Summary: The provided set of genes are primarily involved in the Fanconi Anemia Pathway, a crucial DNA repair mechanism. This pathway is responsible for repairing interstrand cross-links that, if left unrepaired, can lead to genomic instability and cell death. The genes in this set encode proteins that form complexes involved in various stages of this pathway, including the FA core complex, the FANCD2-FANCI complex, and the BRCA2-PALB2 complex. These complexes are involved in the activation of the downstream protein FANCD2 by monoubiquitylation, the recruitment of RAD51 to DNA damage sites, and the strand invasion step of homologous recombination, respectively. 
+
+Mechanism: The Fanconi Anemia Pathway involves the coordinated action of several proteins encoded by the provided gene set. The FA core complex, which includes proteins encoded by FANCA, FANCB, FANCC, FANCE, FANCF, FANCG, FANCL, and FANCM, is crucial for the activation of the pathway. This complex activates the downstream protein FANCD2 by monoubiquitylation. The FANCD2 and FANCI proteins form a complex which is monoubiquitinated by the FA core complex. The BRCA2 and PALB2 proteins work together to recruit RAD51 to DNA damage sites. The RAD51, RAD51C, and XRCC2 proteins facilitate the strand invasion step of homologous recombination. The ERCC4 and SLX4 proteins are involved in the 5' incision made during nucleotide excision repair and the assembly of multiple structure-specific endonucleases, respectively.
+
+Enriched Terms: Fanconi Anemia Pathway; FA core complex; FANCD2-FANCI complex; BRCA2-PALB2 complex; Homologous Recombination Repair; Interstrand cross-link repair; Nucleotide Excision Repair
+
+GO Terms: Fanconi anaemia nuclear complex; FA complex; Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex; DNA repair complex; ATP-dependent DNA damage sensor activity; DNA damage sensor activity
+//
+Summary: The provided gene set is significantly involved in the regulation of cellular stress response, molecular sequestering activity, protein sequestering activity, and potentially in immunity regulation. Some genes also play key roles in managing cellular stress and immune response, while others are involved in iron homeostasis, protein trafficking, and apoptosis.
+
+Mechanism: The genes in the set are involved in various biological processes that help in managing cellular stress and regulating immunity. These include molecular sequestering, protein sequestering, reactive oxygen species metabolic process, response to toxic substance, peroxidase activity, development of pulmonary dendritic cells and macrophage subsets, regulation of myeloid cell differentiation, and interleukin-6-mediated signaling pathway. Some genes are also involved in transition metal ion transport and are part of the intracellular ferritin complex, which are related to iron homeostasis. Others are involved in endocytosis of clathrin-coated vesicles and protein sorting in the Golgi apparatus, which are crucial for protein trafficking. Some genes also play a role in apoptosis by binding to and counteracting the inhibitory effect of IAP proteins or by aggregating into rod-like structures.
+
+Enriched Terms: Molecular sequestering activity; Protein sequestering activity; Reactive oxygen species metabolic process; Response to toxic substance; Peroxidase activity; Development of pulmonary dendritic cells and macrophage subsets; Regulation of myeloid cell differentiation; Interleukin-6-mediated signaling pathway; Transition metal ion transport; Intracellular ferritin complex; Endocytosis of clathrin-coated vesicles; Protein sorting in the Golgi apparatus; Apoptosis.
+
+GO Terms: Molecular sequestering activity; Protein sequestering activity; Reactive oxygen species metabolic process; Response to toxic substance; Peroxidase activity; Development of pulmonary dendritic cells and macrophage subsets; Regulation of myeloid cell differentiation; Interleukin-6-mediated signaling pathway; Transition metal ion transport; Intracellular ferritin complex; Endocytosis of clathrin-coated vesicles; Protein sorting in the Golgi apparatus; Apoptosis.
+//
+Summary: The provided gene set is significantly involved in the regulation of neurotransmission, specifically through the modulation of membrane potential and ion channel activity. 
+
+Mechanism: The genes encode for various subunits of GABA receptors, glutamate receptors, glycine receptors, and different types of ion channels (potassium, sodium). These receptors and channels play crucial roles in neurotransmission, a process that involves the modulation of membrane potential and ion channel activity. 
+
+Enriched Terms: Regulation of presynaptic membrane potential; Monoatomic ion gated channel activity; Gated channel activity; Regulation of membrane potential; Monoatomic ion channel complex.
+
+GO Terms: regulation of membrane potential; substrate-specific channel activity; ion channel complex; ion transport; chemical synaptic transmission.
+//
+Summary: The provided gene set is significantly involved in the Notch Signaling Pathway. This pathway is a key cell communication system that regulates cell differentiation, proliferation, and apoptosis. The genes in the set play various roles in this pathway, including acting as Notch receptors (NOTCH1, NOTCH2, NOTCH3), ligands (DLL1, JAG1), E3 ubiquitin-protein ligases (DTX1, DTX2, DTX4), components of the gamma-secretase complex (APH1A, PSEN2, PSENEN), and transcriptional regulators (MAML2, HES1, HEYL). Some genes are also involved in the Wnt signaling pathway (ARRB1, CCND1, CUL1, FBXW11, KAT2A, LFNG, PPARD, PRKCA, RBX1, SAP30, SKP1, ST3GAL6, TCF7L2, WNT2, WNT5A).
+
+Mechanism: The Notch signaling pathway is initiated when a Notch ligand binds to a Notch receptor, triggering a series of proteolytic cleavages that release the Notch intracellular domain (NICD). The NICD translocates to the nucleus, where it interacts with transcriptional regulators to control the expression of target genes. The gamma-secretase complex, which includes APH1A, PSEN2, and PSENEN, is responsible for the final cleavage that releases the NICD. E3 ubiquitin-protein ligases, such as DTX1, DTX2, and DTX4, regulate the pathway by targeting proteins for degradation. Some genes in the set also participate in the Wnt signaling pathway, suggesting cross-talk between these two pathways.
+
+Enriched Terms: Notch Signaling Pathway; Signaling by NOTCH; Notch signaling pathway; Signaling By NOTCH R-HSA-157118; Signaling by NOTCH1
+
+GO Terms: Notch receptor processing; Notch receptor activation; Notch signaling pathway; regulation of Notch signaling pathway; positive regulation of Notch signaling pathway; negative regulation of Notch signaling pathway; Wnt signaling pathway; regulation of Wnt signaling pathway; positive regulation of Wnt signaling pathway; negative regulation of Wnt signaling pathway.
+//
+Summary: The provided gene set is significantly involved in Calcium Signaling and Neurotransmission. The genes are associated with several biological processes related to calcium ion transport, which is a key part of Calcium Signaling. Additionally, the genes are also involved in the "postsynapse" cellular component, which is a crucial part of the neurotransmission process.
+
+Mechanism: The genes in the set encode proteins that are involved in the transport of calcium ions across the cell membrane, a process that is crucial for the transmission of signals in neurons. Some of these genes are part of the voltage-dependent calcium channel complex, which is essential for the conversion of electrical signals into chemical signals in neurons. Others are part of the nicotinic acetylcholine receptors, which are involved in fast synaptic transmission. Some genes are part of the NMDA receptor, which allows positively charged ions to flow through the cell membrane when activated. Other genes encode proteins that are involved in the regulation of cellular calcium signaling or in the detection and regulation of body temperature, and in the sensation of heat and pain.
+
+Enriched Terms: Calcium ion transmembrane transport; Calcium ion transmembrane transporter activity; Postsynapse; Inorganic cation transmembrane transport; Voltage-gated calcium channel activity; Acetylcholine-gated monoatomic cation-selective channel activity; Excitatory extracellular ligand-gated monoatomic ion channel activity; Transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential; Neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential; Transmitter-gated monoatomic ion channel activity.
+
+GO Terms: Calcium ion transmembrane transport; Calcium ion transmembrane transporter activity; Postsynapse; Inorganic cation transmembrane transport; Voltage-gated calcium channel activity; Acetylcholine-gated monoatomic cation-selective channel activity; Excitatory extracellular ligand-gated monoatomic ion channel activity; Transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential; Neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential; Transmitter-gated monoatomic ion channel activity.
+//
+Summary: The provided gene set is primarily involved in the processes of Angiogenesis and Extracellular Matrix Remodeling. The genes contribute to various functions such as glycosaminoglycan binding, heparin binding, sulfur compound binding, signaling receptor binding, and activities in the extracellular region. These functions are crucial for tissue and organ morphogenesis and remodeling, as well as the formation of new blood vessels.
+
+Mechanism: The genes contribute to the formation of the extracellular matrix through glycosaminoglycan binding and heparin binding. They also play a role in angiogenesis, where signaling molecules bind to receptors on the cell surface to initiate the formation of new blood vessels. The genes are active in the extracellular region, indicating their involvement in extracellular matrix remodeling and angiogenesis.
+
+Enriched Terms: Glycosaminoglycan binding; Heparin binding; Sulfur compound binding; Signaling receptor binding; Extracellular region
+
+GO Terms: Angiogenesis; Extracellular Matrix Remodeling; Glycosaminoglycan binding; Heparin binding; Signaling receptor binding
+//
+Summary: The provided gene set is primarily involved in the biological process of "Axon Guidance". There is no direct evidence supporting the involvement of these genes in "Neuronal Migration". Other related pathways include "Hedgehog Signaling", "Developmental biology", and "CRMPs In Sema3A Signaling". The top 5 enrichment functions for this gene set include "system development", "anatomical structure morphogenesis", "generation of neurons", "multicellular organism development", and "anatomical structure development". 
+
+Mechanism: The genes in the set are involved in various signaling pathways that control cell migration, survival, and attraction. They bind to many ligands and co-receptors, affecting the development and organization of biological structures, particularly neurons. Some of the genes are part of the Hedgehog signaling pathway, which is crucial for embryonic development. Others are involved in the semaphorin signal transduction pathway, which is implicated in growth cone collapse during neural development. 
+
+Enriched Terms: Axon Guidance; Hedgehog Signaling; Developmental Biology; CRMPs In Sema3A Signaling; System Development; Anatomical Structure Morphogenesis; Generation of Neurons; Multicellular Organism Development; Anatomical Structure Development
+
+GO Terms: Axon Guidance; Hedgehog Signaling Pathway; Semaphorin-activated Signaling Pathway; Neuron Development; Neuron Migration; Neuron Projection Development; Neuron Projection Morphogenesis; Neuron Projection Guidance; Neuron Differentiation
+//
+Summary: The provided gene set is significantly involved in the regulation of pancreatic beta cell function and insulin secretion. These genes play a crucial role in the development and function of pancreatic beta cells, which are responsible for insulin production and release. 
+
+Mechanism: The genes in the set encode various proteins that are involved in the development of beta cells, the regulation of gene expression in these cells, and the secretion of insulin. Some genes encode proteins that are involved in the transport of substances across the cell membrane, which is crucial for insulin secretion. Other genes encode proteins that are involved in the processing of protein and peptide precursors, which is necessary for the production of insulin. 
+
+Enriched Terms: Regulation of beta-cell development; Maturity onset diabetes of the young; Regulation of gene expression in beta cells; Regulation of protein secretion; Regulation of peptide hormone secretion
+
+GO Terms: Pancreatic beta cell development; Insulin secretion; Protein transport; Peptide precursor processing; Glucose transport
+//
+Summary: The provided gene set is significantly involved in the regulation of the Wnt/Notch signaling pathway. The genes are part of the "Wnt-beta Catenin Signaling" and "Signaling by NOTCH" pathways, among others. The genes also play a role in the cross-talk between the Wnt-beta Catenin and Notch pathways. 
+
+Mechanism: The Wnt/Notch signaling pathway is a complex network of proteins most known for their roles in embryogenesis and cancer, but also involved in normal physiological processes in adult animals. The Wnt-beta Catenin pathway involves the stabilization and accumulation of beta-catenin in the cytoplasm and its subsequent translocation into the nucleus to regulate gene expression. The Notch signaling pathway is a highly conserved cell signaling system present in most multicellular organisms. Mammals possess four different notch receptors, referred to as NOTCH1, NOTCH2, NOTCH3, and NOTCH4. The notch receptor is a single-pass transmembrane receptor protein. It is a hetero-oligomer composed of a large extracellular portion, which associates in a calcium-dependent, non-covalent interaction with a smaller piece of the notch protein composed of a short extracellular region, a single transmembrane-pass, and a small intracellular region.
+
+Enriched Terms: Wnt-beta Catenin Signaling; Signaling by NOTCH; Notch-HLH Transcription Pathway; Presenilin action in Notch and Wnt signaling; Activation Of NOXA And Translocation To Mitochondria; Polo-like kinase 3 (PLK3) pathway
+
+GO Terms: beta-catenin destruction complex; Wnt signaling pathway; Notch signaling pathway; regulation of cell cycle; regulation of apoptosis; regulation of gene expression
+//
+Summary: The provided gene set is involved in several biological functions, primarily related to cell periphery, plasma membrane, cell surface, cell adhesion, and plasma membrane region. These genes play a crucial role in maintaining cell structure and function, including cell-cell interactions and adhesion. However, the claim that these genes are involved in the ADAM10-APP Mediated Amyloidogenic Pathway could not be verified.
+
+Mechanism: The genes in the set encode proteins that are involved in various cellular functions, including cell adhesion, cell-cell interactions, and maintenance of cell structure. These proteins are primarily located at the cell periphery and plasma membrane, contributing to the cell's structure and function. Some of these genes, such as ADAM10 and APP, encode cell surface proteins that play a role in cell adhesion and cell-cell interactions. Others, like PCSK9, regulate cholesterol metabolism, while BRCA1 is involved in DNA repair and cell cycle regulation. GATA3 and HSPB1 are implicated in cell differentiation and development, and stress response, respectively.
+
+Enriched Terms: Cell Periphery; Plasma Membrane; Cell Surface; Cell Adhesion; Plasma Membrane Region
+
+GO Terms: Cell Periphery; Plasma Membrane; Cell Surface; Cell Adhesion; Plasma Membrane Region
+//
+Summary: The provided gene set is significantly involved in the response to oxidative stress, cellular detoxification, and antioxidant activity. These genes play a crucial role in maintaining cellular homeostasis by mitigating the harmful effects of reactive oxygen species and other toxic substances.
+
+Mechanism: The genes in the set encode proteins that are involved in various processes such as the synthesis of glutathione, the decomposition of reactive oxygen species, and the regulation of redox signaling. Some of these genes are part of the thioredoxin system, which plays a key role in redox homeostasis. Others are part of the mitochondrial respiratory chain complex I, which is involved in electron transport and energy production in cells. These processes collectively contribute to the response to oxidative stress and cellular detoxification.
+
+Enriched Terms: Response to oxidative stress; Antioxidant activity; Cellular oxidant detoxification; Cellular detoxification; Cellular response to toxic substance
+
+GO Terms: Peroxiredoxin activity; Thioredoxin peroxidase activity; Thioredoxin-dependent peroxiredoxin activity; Cell redox homeostasis; Peroxidase activity
+//
+Summary: The provided gene set is significantly involved in the TGF-β Signaling Pathway. This pathway is a crucial regulator of numerous cellular processes, including cell growth, cell differentiation, apoptosis, cellular homeostasis and other cellular functions. The genes in the set play various roles in this pathway, including ligands, receptors, SMAD family proteins, inhibitors, transcription factors, co-activators, regulators of transcription and chromatin remodeling, and proteins involved in cell adhesion and extracellular matrix interactions. 
+
+Mechanism: The TGF-β signaling pathway is initiated when TGF-β1 (TGFB1) and BMP2 ligands bind to their respective receptors TGFBR1, BMPR1A, BMPR2. This triggers the activation of SMAD family proteins (SMAD1, SMAD3, SMAD6, SMAD7), which regulate the transcription of target genes. The pathway is modulated by inhibitors such as SKI, SKIL, SMURF1, SMURF2, and PPP1R15A. Transcription factors JUNB, KLF10, and ARID4B interact with SMAD proteins to regulate gene expression. Co-activators NCOR2 and TRIM33, along with CDK9, HDAC1, and HIPK2, are involved in the regulation of transcription and chromatin remodeling. CDH1, ENG, THBS1, and TJP1 are involved in cell adhesion and extracellular matrix interactions, influencing the pathway. Inhibitory SMADs (SMAD6, SMAD7) and other inhibitors like NOG and LEFTY2 provide a negative feedback mechanism in the pathway.
+
+Enriched Terms: TGF-beta Signaling; Signaling By TGFB Family Members R-HSA-9006936; TGF-beta signaling pathway; Signaling by TGF-beta receptor complex; Signaling By TGF-beta Receptor Complex R-HSA-170834
+
+GO Terms: TGF-beta receptor signaling pathway; TGF-beta receptor signaling in skeletal dysplasias; Transforming growth factor beta receptor binding; BMP signaling pathway; Regulation of cell adhesion
+//
+Summary: The provided gene set is significantly involved in the process of Meiotic Recombination, a key process in sexual reproduction. The genes are associated with various stages of meiosis, including the initiation of Meiosis I, formation and resolution of Holliday junctions, formation of the synaptonemal complex, regulation of sister chromatid separation, and DNA repair processes.
+
+Mechanism: The genes in the set play various roles in the process of meiosis. SPO11 initiates Meiosis I by facilitating the formation of double-strand breaks in DNA. RAD51 and DMC1, both recombinases, facilitate the invasion of the broken DNA strand into a homologous chromosome, forming a D-loop structure. MUS81 and SLX4 are involved in the formation and resolution of Holliday junctions, a key intermediate in recombination. SYCP1 and SYCE3 are involved in the formation of the synaptonemal complex, a structure that holds homologous chromosomes together during recombination. PTTG1, PTTG2, and PTTG3P regulate sister chromatid separation. ERCC4 and FANCD2 are involved in DNA repair processes, crucial for resolving any DNA damage that may occur during recombination.
+
+Enriched Terms: Meiosis I; Meiosis I cell cycle process; Meiotic nuclear division; Meiotic cell cycle process; Meiotic cell cycle
+
+GO Terms: Homologous chromosome segregation; Meiotic chromosome segregation; Oocyte meiosis; Cell cycle; DNA repair
+//
+Summary: The provided gene set is significantly associated with T-Cell Activation and Signaling, T-cell Receptor (TCR) signaling, cytokine signaling, regulation of apoptosis, intracellular signaling pathways following TCR engagement, negative regulation of T-cell activation, and cell adhesion. These processes are crucial for immune response, including T-cell proliferation, differentiation, and interaction with other cells.
+
+Mechanism: The genes in the set are involved in various biological processes. For instance, CD3E, CD28, and PTPRC are involved in T-cell Receptor (TCR) signaling, which is crucial for T-cell development and response. IL2, IL15, IL12B, IL23A, and IL2RA are involved in cytokine signaling, which is crucial for T-cell proliferation and differentiation. BAX and TP53 are involved in the regulation of apoptosis, a process of programmed cell death. FYN, DOCK2, DOCK8, and RASGRP1 are involved in intracellular signaling pathways that are activated following TCR engagement. CBLB, ITCH, and NDFIP1 are involved in the negative regulation of T-cell activation. CADM1 and CD151 are involved in cell adhesion, facilitating T-cell interactions with other cells.
+
+Enriched Terms: T cell activation; T cell proliferation; lymphocyte proliferation; mononuclear cell proliferation; leukocyte proliferation; negative thymic T cell selection; negative T cell selection; thymic T cell selection; positive regulation of alpha-beta T cell proliferation; positive regulation of interleukin-2 production; alpha-beta T cell proliferation; positive regulation of tissue remodeling; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of lymphocyte differentiation; positive regulation of lymphocyte apoptotic process; negative regulation of CD4-positive, alpha-beta T cell proliferation; negative regulation of alpha-beta T cell proliferation; regulation of CD4-positive, alpha-beta T cell proliferation; CD4-positive, alpha-beta T cell proliferation; negative regulation of CD4-positive, alpha-beta T cell activation.
+
+GO Terms: T cell activation; T cell proliferation; lymphocyte proliferation; mononuclear cell proliferation; leukocyte proliferation; negative thymic T cell selection; negative T cell selection; thymic T cell selection; positive regulation of alpha-beta T cell proliferation; positive regulation of interleukin-2 production; alpha-beta T cell proliferation; positive regulation of tissue remodeling; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of lymphocyte differentiation; positive regulation of lymphocyte apoptotic process; negative regulation of CD4-positive, alpha-beta T cell proliferation; negative regulation of alpha-beta T cell proliferation; regulation of CD4-positive, alpha-beta T cell proliferation; CD4-positive, alpha-beta T cell proliferation; negative regulation of CD4-positive, alpha-beta T cell activation.
+//
+Summary: The provided gene set is predominantly involved in cholesterol biosynthesis and lipid metabolism. The genes are part of several biological pathways related to cholesterol, including "Cholesterol Homeostasis", "Cholesterol biosynthesis", "Cholesterol Biosynthesis R-HSA-191273", "Activation Of Gene Expression By SREBF (SREBP) R-HSA-2426168", and "Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829". 
+
+Mechanism: The genes in the set encode for proteins that play crucial roles in the biosynthesis and regulation of cholesterol. They are involved in various stages of the process, from the initial synthesis of cholesterol to its transport and distribution. Some genes, such as HMGCR, HMGCS1, FDFT1, SQLE, and DHCR7, are directly involved in the cholesterol biosynthesis pathway. Others, like FASN, ACAT2, and SCD, contribute to fatty acid synthesis and metabolism. PPARG is a regulator of adipocyte differentiation, a key process in lipid metabolism. SREBF2 is a transcription factor that regulates cholesterol synthesis, and LDLR is responsible for the uptake of low-density lipoprotein, a major cholesterol carrier, from the bloodstream. ABCA2 and PLSCR1 are involved in lipid transport and distribution.
+
+Enriched Terms: Cholesterol Homeostasis; Cholesterol biosynthesis; Cholesterol Biosynthesis R-HSA-191273; Activation Of Gene Expression By SREBF (SREBP) R-HSA-2426168; Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829
+
+GO Terms: Cholesterol metabolic process; Lipid metabolic process; Regulation of lipid metabolic process; Fatty acid metabolic process; Regulation of cholesterol biosynthetic process; Cholesterol transport; Lipid transport; Regulation of cholesterol metabolic process; Fatty acid biosynthetic process; Regulation of fatty acid metabolic process; Regulation of lipid biosynthetic process; Cholesterol biosynthetic process.
+//
+Summary: The provided gene set is significantly involved in cytokine signaling and the regulation of immune responses. The genes are associated with various biological processes, including cytokine-mediated signaling pathways, response to cytokines, cellular response to cytokine stimulus, and cell surface receptor signaling pathways. 
+
+Mechanism: The genes in the set encode proteins that are involved in cytokine signaling pathways. These proteins interact with each other and with other molecules in the cell to transmit signals from cytokines, which are signaling molecules that regulate immune responses. The proteins encoded by these genes can act as receptors for cytokines, transmit signals from the receptors to the interior of the cell, and regulate the activity of other proteins involved in immune responses. 
+
+Enriched Terms: Cytokine-mediated signaling pathway; Response to cytokine; Cellular response to cytokine stimulus; Cell surface receptor signaling pathway; Cytokine-cytokine receptor interaction
+
+GO Terms: cytokine-mediated signaling pathway; cellular response to cytokine stimulus; cell surface receptor signaling pathway; cytokine activity; immune response
+//
+Summary: The provided gene set is significantly involved in the processes of Glycosylation and Glycan Degradation. The genes are associated with various functions related to hydrolase activity, carbohydrate metabolic processes, and carbohydrate derivative catabolic processes. 
+
+Mechanism: The genes encode enzymes that play crucial roles in the hydrolysis of glycosyl compounds and glycosidic bonds, which are key steps in the processes of Glycosylation and Glycan Degradation. These enzymes are involved in various stages of carbohydrate metabolism, including the digestion of dietary carbohydrates, the degradation of glycogen to glucose, and the processing of N-linked glycans. 
+
+Enriched Terms: Hydrolase activity, hydrolyzing O-glycosyl compounds; Hydrolase activity, acting on glycosyl bonds; Carbohydrate metabolic process; Hydrolase activity; Carbohydrate derivative catabolic process.
+
+GO Terms: hydrolase activity, hydrolyzing O-glycosyl compounds; hydrolase activity, acting on glycosyl bonds; carbohydrate metabolic process; hydrolase activity; carbohydrate derivative catabolic process.
+//
+Summary: The provided gene set is predominantly involved in the immune response, specifically in the synthesis and function of immunoglobulins. The genes are associated with the production of immunoglobulins, the adaptive immune response, and the regulation of T cell activation. 
+
+Mechanism: The genes encode for various components of the immunoglobulin complex, including heavy and light chains, and are involved in the synthesis and secretion of these immunoglobulins. They also encode for T cell receptor chains, which are essential for the recognition of antigens. Some genes, like TARM1, are involved in the regulation of T cell activation, suggesting a role in modulating the immune response.
+
+Enriched Terms: Immunoglobulin complex; Adaptive immune response; Antigen binding activity; Immunoglobulin receptor binding activity; Regulation of T cell activation.
+
+GO Terms: Immunoglobulin complex, located in the plasma membrane; Adaptive immune response, a biological process; Antigen binding, a molecular function; Immunoglobulin receptor binding, a molecular function; Regulation of T cell activation, a biological process. 
+//
+Summary: The provided gene set appears to be primarily involved in endocytic trafficking and lysosomal function. This is supported by the enrichment of functions related to vesicle-mediated transport, bounding membrane of organelle, cytoplasmic vesicle, intracellular vesicle, and organelle membrane. Several genes are also components of the AP-2 complex, crucial for clathrin-mediated endocytosis. Additionally, some genes encode ATPases involved in ion transport across membranes, and others are involved in lysosomal enzyme targeting.
+
+Mechanism: The underlying biological mechanism appears to involve the formation, movement, and fusion of vesicles, which is crucial for endocytic trafficking and lysosomal function. This process is regulated by various proteins encoded by the provided gene set, including small GTPases, ATPases, and components of the AP-2 complex. These proteins facilitate the transport of substances within the cell, the targeting of lysosomal enzymes, and the regulation of ion transport across membranes.
+
+Enriched Terms: Vesicle-mediated transport; Bounding membrane of organelle; Cytoplasmic vesicle; Intracellular vesicle; Organelle membrane; AP-2 adaptor complex; Clathrin coat of endocytic vesicle; GDP binding; RAB geranylgeranylation; GTPase activity; GTP binding; Guanyl nucleotide binding.
+
+GO Terms: ARF protein signal transduction; Regulation of ARF protein signal transduction; GDP binding; RAB geranylgeranylation; GTPase activity; GTP binding; Guanyl nucleotide binding.
+//
+Summary: The provided gene set is significantly involved in the antiviral immune response. The genes are associated with the response to biotic stimuli, response to other organisms, response to external biotic stimuli, interspecies interactions, and defense response to other organisms. These functions are all related to the immune response to external biological threats, including viruses.
+
+Mechanism: The genes in the set are involved in various biological processes that contribute to the immune response. These include antigen processing and presentation, initiation of apoptosis, RNA editing, cytokine signaling, and protein ubiquitination. These processes help the immune system recognize and respond to foreign substances, induce programmed cell death, regulate gene expression, coordinate immune responses, and target viral proteins for degradation.
+
+Enriched Terms: Response to biotic stimulus; Response to other organism; Response to external biotic stimulus; Biological process involved in interspecies interaction between organisms; Defense response to other organism
+
+GO Terms: Antigen processing and presentation; Initiation of apoptosis; RNA editing; Cytokine signaling; Protein ubiquitination
+//
+Summary: The provided gene set appears to be significantly involved in lipid metabolism, protein degradation, and cell cycle regulation. These genes are implicated in various biological processes such as the conversion of free long-chain fatty acids into fatty acyl-CoA esters, biosynthesis of polyunsaturated fatty acids, cholesterol and other isoprenoids production, cell cycle G1/S transition, protein transport from the endoplasmic reticulum to the Golgi apparatus, and protein folding and processing.
+
+Mechanism: The underlying biological mechanisms involve key metabolic pathways and cellular processes. ACSL3, FADS1, SCD, ELOVL5, HMGCR, and HMGCS1 are involved in lipid metabolism, contributing to the conversion, biosynthesis, and production of fatty acids, cholesterol, and other isoprenoids. CCND1, CCND3, and CDK6 play a role in cell cycle regulation, particularly the G1/S transition. SEC24D, UBE2I, and UBE2J1 are implicated in protein transport and degradation, while DNAJB9 is involved in protein folding and processing.
+
+Enriched Terms: Lipid Metabolism; Cell Cycle Regulation; Protein Transport; Protein Degradation; Protein Folding and Processing
+
+GO Terms: Fatty Acid Biosynthetic Process; Cell Cycle G1/S Transition; Protein Transport; Ubiquitin-Dependent Protein Catabolic Process; Protein Folding
+//
+Summary: The provided gene set appears to be significantly involved in peroxisomal biogenesis and lipid metabolism. This is supported by the enrichment of terms related to peroxisomes and lipid metabolic processes. The genes are also involved in various other processes such as DNA repair, oxidative stress response, and fatty acid breakdown.
+
+Mechanism: The genes in the set encode for proteins that are involved in the formation and functioning of peroxisomes, a type of organelle involved in lipid metabolism. Some genes are part of the ATP-binding cassette (ABC) transporter family and play a role in lipid transport. Others are involved in the breakdown of fatty acids in peroxisomes or in the body's defense against oxidative stress. Some genes are also involved in DNA repair mechanisms.
+
+Enriched Terms: Peroxisome; Microbody; Peroxisomal matrix; Microbody lumen; Lipid metabolism; Peroxisomal biogenesis; ATP-binding cassette (ABC) transporter; Fatty acid beta-oxidation; Oxidative stress response; DNA repair.
+
+GO Terms: Peroxisome; Peroxisomal membrane; Peroxisomal matrix; Peroxisomal transport; Fatty acid metabolic process; Steroid biosynthetic process; Xenobiotic metabolic process; Response to oxidative stress; DNA repair; Lipid metabolic process.
+//
+Summary: The provided gene set is significantly involved in intracellular signal transduction, regulation of cell cycle, apoptosis or programmed cell death, and immune response signaling. These genes also play a role in phosphorylation in signal transduction and are part of various signaling pathways such as the PI3K/AKT/mTOR pathway. Some of these genes encode proteins that negatively regulate signal transduction.
+
+Mechanism: The genes in the set are involved in various biological processes and pathways. For instance, AKT1 is part of the PI3K/AKT/mTOR pathway, which regulates cell growth, proliferation, and survival. Kinases such as AKT1, MAPK1, CDK1, CDK2, CDK4, CAMK4, MAP2K3, MAP2K6 play a role in phosphorylation, a key process in signal transduction. Genes like CDK1, CDK2, CDK4, CDKN1A, CDKN1B, E2F1 are involved in the regulation of the cell cycle. FASLG, NGF, and TNFRSF1A are involved in apoptosis or programmed cell death. Genes such as IL2RG, IL4, MYD88, NOD1, STAT2 are involved in immune response signaling. PTEN and DUSP3 encode proteins that negatively regulate signal transduction.
+
+Enriched Terms: Intracellular Signal Transduction; PI3K/AKT/mTOR Pathway; Phosphorylation in Signal Transduction; Regulation of Cell Cycle; Apoptosis or Programmed Cell Death; Immune Response Signaling; Negative Regulation of Signal Transduction.
+
+GO Terms: Intracellular Signal Transduction; Protein Serine Kinase Activity; Protein Serine/Threonine Kinase Activity; Cyclin Binding; Extrinsic Apoptotic Signaling Pathway via Death Domain Receptors; Signaling by Interleukins; Cytokine Signaling in Immune System.
+//
+Summary: The provided gene set is predominantly involved in cholesterol and lipid metabolism. This includes processes such as cholesterol efflux, bile acid transport, conversion of cholesterol to bile acids, synthesis of bile acids from cholesterol, fatty acid metabolism, and detoxification of reactive oxygen species.
+
+Mechanism: The genes in the set encode for proteins that play crucial roles in various stages of cholesterol and lipid metabolism. This includes ATP-binding cassette transporters (ABCA1, ABCG1, ABCG8) that are involved in cholesterol efflux and bile acid transport, cytochrome P450 family members (CYP7A1, CYP7B1, CYP8B1) that convert cholesterol to bile acids, and enzymes like HSD3B7 that are key in bile acid synthesis. Additionally, genes like ACSL1 and ACSL5 are involved in fatty acid metabolism, while APOA1 is a major component of high-density lipoprotein (HDL). NPC1 is involved in intracellular trafficking of cholesterol and lipids, and genes like SOD1, CAT, and PRDX5 are involved in the detoxification of reactive oxygen species.
+
+Enriched Terms: Peroxisome; Microbody; Lipid Metabolic Process; Small Molecule Metabolic Process; Hydrogen Peroxide Metabolic Process; Antioxidant Activity; Cellular Oxidant Detoxification
+
+GO Terms: Cholesterol Efflux; Bile Acid Transport; Conversion of Cholesterol to Bile Acids; Synthesis of Bile Acids from Cholesterol; Fatty Acid Metabolism; High-Density Lipoprotein Component; Intracellular Trafficking of Cholesterol and Lipids; Detoxification of Reactive Oxygen Species
+//
+Summary: The provided gene set is significantly involved in the Integrated Stress Response (ISR), particularly the Unfolded Protein Response (UPR) and the activation of chaperones. These genes are also associated with cellular responses to stress and stimuli. Some genes are involved in the initiation of the UPR, while others are key transcription factors in the UPR or are regulated during the UPR. Some genes are also involved in mRNA decay during the UPR.
+
+Mechanism: The UPR is initiated in response to an accumulation of unfolded or misfolded proteins in the lumen of the endoplasmic reticulum. In this response, the genes EIF2AK3 and EIF2S1 play a crucial role. The gene ATF4 is a key transcription factor in the UPR and regulates the expression of numerous genes including ASNS, DDIT4, and CHOP. The genes ATF6 and ERN1 function as ER stress sensors that activate downstream pathways to restore ER homeostasis during the UPR. The genes DCP1A, DCP2, CNOT2, CNOT4, CNOT6 are involved in mRNA decay during the UPR.
+
+Enriched Terms: Unfolded Protein Response (UPR); IRE1alpha activates chaperones; XBP1(S) activates chaperone genes; Cellular responses to stress; Cellular responses to stimuli
+
+GO Terms: Unfolded Protein Response (UPR); IRE1alpha activates chaperones; XBP1(S) activates chaperone genes; Cellular responses to stress; Cellular responses to stimuli
+//
+Summary: The provided gene set is significantly associated with the process of spermatogenesis, which involves the production of sperm cells. The genes are involved in various stages of this process, including acrosome formation, sperm-egg interaction, sperm flagellum formation and motility, homologous recombination during meiosis, synaptonemal complex formation, cell cycle regulation, and carbohydrate metabolism in the glycolysis pathway.
+
+Mechanism: The genes in the set are involved in various stages of spermatogenesis. For instance, ACRBP is involved in acrosome formation, a critical step in sperm development. ACRV1 and ADAM2 are involved in sperm-egg interaction, a crucial step in fertilization. AKAP4 is essential for sperm flagellum formation and motility. DMC1 is involved in homologous recombination during meiosis, and SYCP1 is crucial for synaptonemal complex formation, a structure that forms between homologous chromosomes during meiosis. CDK1, CCNB2, and CCNA1 are key regulators of the cell cycle, and GAPDHS plays an important role in carbohydrate metabolism, specifically in the glycolysis pathway, which is important for energy production during spermiogenesis.
+
+Enriched Terms: Spermatogenesis; Acrosome Formation; Sperm-Egg Interaction; Sperm Flagellum Formation and Motility; Homologous Recombination during Meiosis; Synaptonemal Complex Formation; Cell Cycle Regulation; Carbohydrate Metabolism in the Glycolysis Pathway.
+
+GO Terms: Reproductive Process; Reproduction; Sexual Reproduction; Multicellular Organism Reproduction; Gamete Generation.
+//
+Summary: The provided gene set is significantly involved in the activation of the complement system and the coagulation cascade. The genes in the set are associated with both complement system activation and coagulation cascade, with a strong statistical significance.
+
+Mechanism: The genes in the set are involved in the activation of the complement system, a part of the immune system that enhances the ability of antibodies and phagocytic cells to clear microbes and damaged cells from an organism. They also play a role in the coagulation cascade, a process in which blood forms clots to block and then heal a leak in a damaged blood vessel.
+
+Enriched Terms: Complement and coagulation cascades; Complement activation; Coagulation cascade
+
+GO Terms: Complement activation, classical pathway; Regulation of coagulation; Negative regulation of fibrinolysis
+//
+Summary: The provided gene set appears to be primarily involved in DNA repair, transcription, and DNA replication processes. Several genes are also implicated in the HIV life cycle, nucleotide metabolism, and regulation of transcription elongation. 
+
+Mechanism: The genes in this set are involved in various biological mechanisms. For instance, the ERCC, RAD, POLH, and POLL families are involved in DNA repair processes such as Transcription-Coupled Nucleotide Excision Repair (TC-NER) and homologous recombination. The GTF2 and POLR2 families are part of the general transcription machinery, while the POLD and POLA families, along with PCNA, are involved in DNA replication. The NELF family and NUDT21 are involved in the regulation of transcription elongation and pre-mRNA 3'-end processing, respectively. The NT5C family is involved in nucleotide metabolism, and SEC61A1 is part of the SEC61 complex, which is involved in protein translocation across the endoplasmic reticulum membrane.
+
+Enriched Terms: DNA repair; Transcription; DNA replication; HIV life cycle; Nucleotide metabolism; Regulation of transcription elongation; Pre-mRNA 3'-end processing; Protein translocation across the endoplasmic reticulum membrane
+
+GO Terms: Transcription-Coupled Nucleotide Excision Repair (TC-NER); Dual incision in TC-NER; DNA-directed RNA polymerase complex; RNA Polymerase II Transcription Pre-Initiation And Promoter Opening; RNA Polymerase II Transcription Initiation And Promoter Clearance; RNA Polymerase II Transcription Initiation; RNA Polymerase II Promoter Escape; DNA polymerase complex; Nuclear replisome; Removal of the Flap Intermediate; Leading Strand Synthesis; DNA repair complex assembly; DNA recombinase assembly; Double-strand break repair via synthesis-dependent strand annealing; Homologous recombination; Negative regulation of transcription elongation by RNA polymerase II; Negative regulation of DNA-templated transcription, elongation; 5'-nucleotidase activity; Pyrimidine 5' nucleotidase activity; Protein translocation across the endoplasmic reticulum membrane
+//
+Summary: The provided gene set is significantly involved in fatty acid metabolism, including processes such as fatty acid degradation, fatty acid beta-oxidation, and fatty acid synthesis. The genes are part of various families and pathways that play crucial roles in these processes, such as the acyl-CoA dehydrogenase family and the acyl-CoA synthetase long-chain family.
+
+Mechanism: The genes in the set are involved in various stages of fatty acid metabolism. For instance, genes from the acyl-CoA dehydrogenase family (ACAA1, ACAA2, ACADL, ACADM, ACADS, ACADVL) are involved in the beta-oxidation of fatty acids. Similarly, genes from the acyl-CoA synthetase long-chain family (ACSL1, ACSL4, ACSL5) play a key role in converting free long-chain fatty acids into fatty acyl-CoA esters, a crucial step in lipid biosynthesis and fatty acid degradation. Other genes like CPT1A, CPT2, FASN, ELOVL5, and ACOX1 are involved in various processes like transport of long-chain fatty acids into the mitochondria for beta-oxidation, conversion of acetyl-CoA into fatty acids (lipogenesis), elongation of long-chain fatty acids, and desaturation of acyl-CoAs to 2-trans-enoyl-CoAs respectively.
+
+Enriched Terms: Fatty acid metabolism; Fatty acid degradation; Fatty acid beta-oxidation; Fatty acid synthesis; Lipid biosynthesis.
+
+GO Terms: Carboxylic acid metabolic process; Oxoacid metabolic process; Organic acid metabolic process; Small molecule metabolic process; Monocarboxylic acid metabolic process.
+//
+Summary: The provided gene set is significantly involved in the regulation of apoptosis, a process of programmed cell death. This is supported by the strong statistical significance of the enrichment function "apoptotic process". The genes in this set are also involved in other related functions such as "programmed cell death", "cell death", "regulation of programmed cell death", and "regulation of apoptotic process". 
+
+Mechanism: The underlying biological mechanism involves the regulation of apoptosis through various pathways. The BCL2 family, including BCL2L1, BCL2L10, BCL2L11, and BCL2L2, plays a central role in the apoptotic process. The CASP genes (CASP1, CASP2, CASP3, CASP4, CASP6, CASP7, CASP8, CASP9) encode caspases, which are crucial executioners of apoptosis. FAS and its ligand FASLG are critical in the extrinsic pathway of apoptosis. CDKN1A, a p53 target gene, is involved in cell cycle arrest, leading to apoptosis if DNA damage is irreparable. Both TNF and TNFRSF12A are part of the TNF superfamily and are involved in apoptosis. XIAP is a member of the inhibitor of apoptosis proteins (IAPs) family, which can inhibit caspases and block apoptosis. The genes BAX, BAK, and DIABLO encode proteins associated with the mitochondria and are involved in the intrinsic pathway of apoptosis. Both GADD45A and GADD45B are involved in the DNA damage response and mediate activation of the p38/JNK pathway.
+
+Enriched Terms: Apoptotic process; Programmed cell death; Cell death; Regulation of programmed cell death; Regulation of apoptotic process
+
+GO Terms: Apoptotic process; Programmed cell death; Cell death; Regulation of programmed cell death; Regulation of apoptotic process; Signal transduction in absence of ligand; Extrinsic apoptotic signaling pathway in absence of ligand; Apoptosis modulation and signaling; Intrinsic apoptotic signaling pathway in response to DNA damage; Bcl-2 family protein complex
+//
+Summary: The provided gene set is significantly involved in the regulation of immune response, particularly in T-cell and B-cell activation, and the regulation of gene expression. The genes are also involved in the regulation of apoptosis and inflammatory responses. 
+
+Mechanism: The genes in the set encode for proteins that are involved in various cellular processes such as cell activation, regulation of multicellular organismal process, leukocyte activation, cellular response to chemical stimulus, and multicellular organismal process. These processes are crucial in immune response regulation. For instance, genes like IL10, IL13, IL18R1, IL1R2, IL1RL1, IL2RA, IL2RB, IL3RA, IL4R, IRF4, IRF6, IRF8, CD44, CD48, CD79B, CD81, CD83, CD86, CTLA4, BCL2, BCL2L1, BATF, BATF3, GATA1, IKZF2, IKZF4, TNFRSF18, TNFRSF1B, TNFRSF21, TNFRSF4, TNFRSF8, TNFRSF9, TNFSF10, and TNFSF11 play a role in T-cell activation, B-cell maturation and differentiation, and the down-regulation of macrophage activity, which are all crucial in immune response regulation. 
+
+Enriched Terms: Cell activation; Regulation of multicellular organismal process; Leukocyte activation; Cellular response to chemical stimulus; Multicellular organismal process
+
+GO Terms: Immune response regulation; T-cell activation; B-cell maturation and differentiation; Down-regulation of macrophage activity; Regulation of gene expression; Regulation of apoptosis; Inflammatory responses.
+//
+Summary: The provided gene set is predominantly involved in cytoskeletal regulation and organization. There is strong statistical significance supporting this function, with a p-value of 9.24e-116. While there are implications for cell cycle control, the evidence is indirect and not as strong. Individual genes such as ACTN4, FLNA, FLNB, and MYH9 have specific roles in maintaining the structure and function of the cytoskeleton. KIF11 and KIF23 are involved in mitosis, a process integral to cell cycle control.
+
+Mechanism: The genes in this set encode proteins that interact with the cytoskeleton, influencing its organization and function. They are involved in processes such as binding actin to the membrane, crosslinking actin filaments, and remodeling the cytoskeleton to effect changes in cell shape and migration. Some genes also play roles in spindle dynamics and chromosome movement during cell division, which are crucial aspects of cell cycle control.
+
+Enriched Terms: Cytoskeleton organization; Microtubule cytoskeleton; Cytoskeletal protein binding; Organelle organization; Cell shape and migration
+
+GO Terms: Cytoskeleton organization; Microtubule cytoskeleton organization; Actin filament binding; Cytoskeletal protein binding; Cell cycle control
+//
+Summary: The provided gene set appears to be significantly involved in lipid metabolism, energy production, and the breakdown of fatty acids. These genes are also associated with the mitochondrial respiratory chain and oxidative phosphorylation, which are crucial for energy production. Some genes are involved in the process of glycolysis, lipid droplet formation, and the mobilization of stored fats.
+
+Mechanism: The genes in the set are involved in various metabolic processes. Some genes, such as ABCA1 and APOE, play a role in lipid transport and metabolism. Others, like ACAA2, ACADL, ACADM, and ACADS, are part of the fatty acid beta-oxidation pathway, which breaks down fatty acids to produce energy. Genes like COX6A1, COX7B, COX8A, NDUFA5, NDUFB7, and NDUFS3 are components of the mitochondrial respiratory chain involved in oxidative phosphorylation. PFKL and PGM1 are involved in glycolysis, while PLIN2 is associated with lipid droplet formation and LIPE is involved in the mobilization of stored fats.
+
+Enriched Terms: Small molecule metabolic process; Mitochondrion; Metabolism; Generation of precursor metabolites and energy; Cytoplasm
+
+GO Terms: Respiratory chain complex; Mitochondrial respirasome; Respirasome; Aerobic electron transport chain; ATP synthesis coupled electron transport
+//
+Summary: The provided gene set is significantly involved in the regulation of immune response, including T cell activation, cytokine modulation, antigen presentation, immune cell trafficking, programmed cell death, and JAK-STAT signaling pathway.
+
+Mechanism: The genes in the set encode proteins that play crucial roles in various aspects of the immune response. This includes T cell activation (CD4, CD8A, CD8B), cytokine modulation (IL2, IL4, IL10, IFNG), antigen presentation (HLA-A, HLA-DMA, HLA-DMB, HLA-DOA, HLA-DOB, HLA-DQA1, HLA-DRA, HLA-E, HLA-G), immune cell trafficking (CCR1, CCR2, CCR5, CXCL13, CXCL9, CXCR3), programmed cell death (FAS, FASLG), and JAK-STAT signaling pathway (AKT1, JAK2, STAT1, STAT4). These processes are interconnected and work together to regulate the immune response to various stimuli.
+
+Enriched Terms: Immune system process; Immune response; Regulation of immune system process; Positive regulation of immune system process; Leukocyte activation; Chemokine receptors bind chemokines; Chemokine-mediated signaling pathway; Cellular response to chemokine; Response to chemokine; Viral protein interaction with cytokine and cytokine receptor.
+
+GO Terms: Immune system process; Immune response; Regulation of immune response; Positive regulation of cytokine production; Leukocyte activation; Chemokine activity; Chemokine-mediated signaling pathway; Cellular response to cytokine stimulus; Response to virus; Cell surface receptor signaling pathway.
+//
+Summary: The provided gene set appears to be significantly involved in cell adhesion processes, cell-cell and cell-matrix interactions, and signal transduction pathways. These genes play crucial roles in cellular structure, communication, and interaction with the extracellular matrix. 
+
+Mechanism: The genes in the set encode proteins that are integral to cell adhesion, such as cadherins and integrins, which mediate calcium-dependent cell-cell adhesion and cell-extracellular matrix adhesion respectively. The ADAM family proteins and matrix metalloproteinases are involved in cell-cell and cell-matrix interactions, crucial for cell migration and invasion. The PI3K proteins and PTEN are involved in signal transduction pathways that regulate cell growth, proliferation, differentiation, motility, survival, and intracellular trafficking.
+
+Enriched Terms: Cell adhesion; Anchoring junction; Cell junction; Cell-Cell communication; Cell-cell adhesion; Metalloendopeptidase activity; Integrin binding; Metallopeptidase activity; Endopeptidase activity; Cell adhesion molecule binding.
+
+GO Terms: Regulation of actin cytoskeleton; Cell adhesion; Anchoring junction; Cell junction; Cell-Cell communication; Metalloendopeptidase activity; Integrin binding; Metallopeptidase activity; Endopeptidase activity; Cell adhesion molecule binding. 
+//
+Summary: The provided gene set appears to be significantly involved in proteolysis, peptidase activity, endopeptidase activity, coagulation, and functions related to the extracellular region. Several genes are specifically involved in cysteine-type endopeptidase activity and serine-type endopeptidase activity, both of which are key to proteolysis. Additionally, a subset of genes is involved in coagulation processes.
+
+Mechanism: The genes in this set may be involved in the breakdown of proteins (proteolysis) through endopeptidase activity, which involves the hydrolysis of peptide bonds in a polypeptide chain. This process is crucial for various biological functions, including apoptosis. Additionally, several genes are involved in coagulation, a process that helps prevent excessive bleeding when the body is injured.
+
+Enriched Terms: Proteolysis; Peptidase activity; Endopeptidase activity; Coagulation; Extracellular region
+
+GO Terms: Cysteine-type endopeptidase activity; Serine-type endopeptidase activity; Blood clotting cascade; Complement and coagulation cascades; Hemostasis
+//
+Summary: The provided gene set appears to be significantly involved in cell cycle regulation, DNA repair, and DNA metabolic processes. These genes play crucial roles in various stages of the cell cycle, DNA damage response, and DNA synthesis, modification, and breakdown.
+
+Mechanism: The genes in this set encode proteins that are key regulators of the cell cycle, involved in the transition between different phases. Some of these genes are also involved in the DNA damage response, pausing the cell cycle to allow for DNA repair. Others are involved in the synthesis, modification, and breakdown of DNA molecules, playing a role in DNA metabolic processes.
+
+Enriched Terms: Cell Cycle; DNA Metabolic Process; Cell Cycle Process; Mitotic Cell Cycle Process
+
+GO Terms: Cell Cycle Regulation; DNA Repair; DNA Metabolic Process; Homologous Recombination Repair Pathway; DNA Double-Strand Break Repair; Cell Cycle Checkpoint Activation; Telomere Maintenance; Meiotic Recombination
+//
+Summary: The provided gene set is significantly involved in the process of Extracellular Matrix Remodeling. This is supported by the top enrichment function "extracellular matrix" with a p-value of 1.285476362681366e-83, indicating a very strong statistical significance. The genes in the set are significantly involved in the organization and structure of the extracellular matrix, which is a key aspect of extracellular matrix remodeling. 
+
+Mechanism: The genes in the set encode proteins that contribute to the structure and integrity of the extracellular matrix, including collagen types I, II, III, IV, and V. They also include matrix metallopeptidases (MMPs) that are involved in the degradation of the extracellular matrix, and tissue inhibitors of metalloproteinases (TIMPs) that balance matrix degradation and synthesis. Other genes encode proteins that facilitate cell-extracellular matrix adhesion, regulate cell proliferation, differentiation, and growth, and are involved in new blood vessel formation within the extracellular matrix.
+
+Enriched Terms: Extracellular matrix; External encapsulating structure; Collagen-containing extracellular matrix; Extracellular region; Integrin complex; Protein complex involved in cell adhesion; Virus receptor activity; Exogenous protein binding; Cell adhesion mediated by integrin.
+
+GO Terms: Extracellular matrix organization; Cell adhesion; Cell migration; Blood vessel formation; Matrix degradation; Matrix synthesis; Cell proliferation; Cell differentiation; Cell growth.
+//
+Summary: The provided gene set is predominantly involved in cell cycle regulation, DNA repair, and genomic stability. These genes play crucial roles in various stages of the cell cycle, including mitosis, and are involved in key processes such as DNA replication, segregation of genetic material, and response to DNA damage.
+
+Mechanism: The underlying biological mechanism involves the regulation of the cell cycle and DNA repair processes. Genes like CCNA2, CCNB2, CCND1, and CDK1 are part of cyclin-dependent protein kinase complexes that regulate cell cycle progression. ATRX and BRCA2 are involved in DNA repair and maintaining genomic stability. Genes like BUB1 and BUB3 are part of the spindle assembly checkpoint, ensuring proper chromosome segregation during mitosis. E2F1, E2F2, and E2F3 are transcription factors controlling cell cycle progression and tumor suppression. MYC is a regulator gene influencing cell cycle progression, apoptosis, and cellular transformation. TP53 is a tumor suppressor gene responding to cellular stresses and regulating target gene expression.
+
+Enriched Terms: Cell Cycle Regulation; DNA Repair; Genomic Stability; Mitotic Cell Cycle Process; Chromosome Organization
+
+GO Terms: Cyclin-Dependent Protein Kinase Holoenzyme Complex; Cell Cycle Kinase Complex CDC2; Spindle Assembly Checkpoint Signaling; E2F Family of Transcription Factors; Tumor Suppressor Gene TP53
+//
+Summary: The provided gene set is significantly involved in carbohydrate metabolism, specifically in the processes of Glycolysis and Glycogenesis. 
+
+Mechanism: These genes encode various enzymes that play crucial roles in the metabolic pathways of Glycolysis and Glycogenesis. For instance, genes like ENO1, ENO2, GAPDHS, LDHA, LDHC, PFKFB1, PFKP, PGAM1, PGAM2, PKM, and TPI1 are involved in the Glycolysis pathway. On the other hand, genes like GYS1 and GYS2 are involved in the Glycogenesis pathway. 
+
+Enriched Terms: Metabolism of carbohydrates; Carbohydrate metabolic process; Carbohydrate derivative metabolic process; Monosaccharide metabolic process; Small molecule metabolic process
+
+GO Terms: Glycolysis; Glycogenesis; Carbohydrate metabolism; Metabolism Of Carbohydrates R-HSA-71387; Regulation Of Glycolysis By Fructose 2,6-Bisphosphate Metabolism
+//
+Summary: The provided gene set is predominantly involved in erythropoiesis, the process of producing red blood cells. This includes the metabolic processes of porphyrin-containing compounds and tetrapyrroles, reticulocytosis, pigment metabolic processes, and the biosynthetic process of porphyrin-containing compounds. These processes are all crucial for the production and maturation of red blood cells.
+
+Mechanism: The genes in the set play various roles in erythropoiesis. For instance, GATA1, KLF1, and TAL1 are involved in the regulation of erythroid differentiation and maturation. HBB, HBD, HBG1, and HBG2 encode the globin chains of hemoglobin, the oxygen-carrying molecule in red blood cells. ALAS2 is involved in the first step of heme synthesis in erythroid cells. SLC4A1, ANK1, SPTA1, and SPTB maintain the structural integrity of the red blood cell membrane. EPOR encodes the erythropoietin receptor, necessary for the survival, proliferation, and differentiation of erythroid progenitor cells. SLC11A2, SLC25A37, SLC25A37 are involved in iron transport across the membrane, a crucial process in iron metabolism and subsequently, heme synthesis and hemoglobin production.
+
+Enriched Terms: Erythropoiesis; Porphyrin-containing compound metabolic process; Tetrapyrrole metabolic process; Reticulocytosis; Pigment metabolic process; Porphyrin-containing compound biosynthetic process
+
+GO Terms: Erythroid differentiation; Hemoglobin biosynthesis; Heme synthesis; Red blood cell membrane integrity; Iron transport across membrane; Erythropoietin receptor activity
+//
+Summary: The provided gene set is significantly involved in the processes of glucose metabolism and glycolysis. The genes encode for various enzymes and proteins that play crucial roles in these metabolic pathways. 
+
+Mechanism: The genes in the set encode for enzymes involved in different steps of glycolysis and glucose metabolism. For instance, ALDOA, ALDOB, and ALDOC encode for aldolase enzymes that catalyze the conversion of fructose-1,6-bisphosphate to glyceraldehyde 3-phosphate and dihydroxyacetone phosphate. ENO1, ENO2, and ENO3 encode for enolase enzymes involved in the conversion of 2-phosphoglycerate to phosphoenolpyruvate. GAPDH encodes for glyceraldehyde-3-phosphate dehydrogenase, which catalyzes the conversion of glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate. HK1 and HK2 encode for hexokinase, which catalyzes the first step of glycolysis, converting glucose to glucose-6-phosphate. PFKFB3, PFKL, and PFKP encode for phosphofructokinase, a key enzyme in glycolysis. PGAM2, PGK1, and TPI1 are also involved in different steps of glycolysis. SLC2A1 and SLC2A3 encode for glucose transporters, facilitating glucose uptake into cells. 
+
+Enriched Terms: Carbohydrate metabolic process; Metabolism of carbohydrates; Monosaccharide metabolic process; Hexose metabolic process; Glycolysis and gluconeogenesis
+
+GO Terms: Glucokinase activity; Hexokinase activity; Phosphopyruvate hydratase activity; Glyceraldehyde-3-phosphate dehydrogenase activity; Fructose-bisphosphate aldolase activity
+//
+Summary: The provided gene set is significantly involved in the regulation of inflammatory response and immune system processes. These genes play crucial roles in pathogen recognition, activation of innate immunity, regulation of immune and inflammatory responses, and the adhesion and transmigration of leukocytes.
+
+Mechanism: The genes in this set are involved in various biological processes that contribute to the regulation of inflammatory response. For instance, ABCA1 regulates cholesterol metabolism, which is crucial in the inflammatory response. CCL2 recruits monocytes to sites of inflammation, while IL10 and IL6 regulate immune and inflammatory responses. TLR1, TLR2, and TLR3 play a fundamental role in pathogen recognition and activation of innate immunity. ICAM1 and ICAM4 are involved in the adhesion and transmigration of leukocytes, a key step in inflammation. PTGER2 and PTGER4 are receptors for prostaglandin E2, a metabolite of arachidonic acid which has different biologic activities in a wide range of tissues.
+
+Enriched Terms: Inflammatory response; Immune system process; Response to external stimulus; Defense response; Regulation of immune system process.
+
+GO Terms: Pathogen recognition; Activation of innate immunity; Regulation of immune and inflammatory responses; Adhesion and transmigration of leukocytes; Regulation of cholesterol metabolism.
+//
+Summary: The provided gene set is significantly involved in immune response regulation, interferon response, antigen processing and presentation, cytokine signaling and inflammation, apoptosis, and innate immune system processes. 
+
+Mechanism: The genes in the set are involved in various biological processes and pathways. These include the JAK-STAT signaling pathway, Interferon alpha/beta signaling, antigen processing and presentation of peptide antigen, apoptosis modulation and signaling, and MyD88 cascade initiated on plasma membrane. These mechanisms contribute to the immune response, inflammation, cell death, and innate immune system processes.
+
+Enriched Terms: Immune system process; Response to biotic stimulus; Interferon alpha/beta signaling; Antigen processing and presentation of peptide antigen; JAK-STAT signaling pathway; Apoptosis; MyD88 cascade initiated on plasma membrane.
+
+GO Terms: Immune system process; Interferon alpha/beta signaling; Antigen processing and presentation of peptide antigen; JAK-STAT signaling pathway; Apoptosis; MyD88 cascade initiated on plasma membrane.
+//
+Summary: The provided gene set appears to be significantly involved in metabolic processes, particularly lipid metabolism and cholesterol biosynthesis. Several genes also play crucial roles in protein synthesis, protein degradation, protein transport, and stress response.
+
+Mechanism: The genes in the set are involved in various biological processes. For instance, ACACA and ACLY are key enzymes in fatty acid synthesis and cholesterol biosynthesis, respectively. HMGCR and HMGCS1 are crucial in cholesterol biosynthesis. FADS1 and FADS2 are involved in fatty acid desaturation. EIF2S2 and EEF1E1 are involved in protein synthesis. PSMA3, PSMA4, PSMB5, PSMC2, PSMC4, PSMC6, PSMD12, PSMD13, PSMD14, PSME3, PSMG1 are involved in protein degradation. SEC11A and USO1 are involved in protein transport. INSIG1 is a key regulator of cholesterol synthesis. NUPR1 and DDIT3 are involved in the stress response, which can affect both small molecule metabolism and protein folding.
+
+Enriched Terms: Lipid Metabolism; Cholesterol Biosynthesis; Fatty Acid Desaturation; Protein Synthesis; Protein Degradation; Protein Transport; Stress Response.
+
+GO Terms: Small Molecule Metabolic Process; Small Molecule Biosynthetic Process; Proteasome Complex; Transcriptional Misregulation in Cancer; p53 Pathway; mTORC1 Signaling; ATF6 (ATF6-alpha) Activates Chaperone Genes R-HSA-381183; ATF6 (ATF6-alpha) Activates Chaperones R-HSA-381033.
+//
+Summary: The provided gene set is predominantly involved in muscle contraction, regeneration, and energy metabolism. These genes encode proteins that play crucial roles in muscle structure development, muscle organ development, and contractile fiber formation. They are also involved in energy metabolism, essential for muscle function, and signal transduction, crucial for muscle contraction and structure development.
+
+Mechanism: The genes in this set encode for proteins involved in various aspects of muscle function, including structural proteins (e.g., actin, myosin), enzymes involved in energy metabolism (e.g., creatine kinase, phosphofructokinase), and proteins involved in signal transduction (e.g., AKT2, CAMK2B). These proteins work together to ensure proper muscle contraction and regeneration. 
+
+Enriched Terms: Muscle system process; Muscle contraction; Muscle structure development; Muscle organ development; Contractile fiber; Energy metabolism; Signal transduction.
+
+GO Terms: Muscle system process; Muscle contraction; Muscle structure development; Muscle organ development; Contractile fiber; Energy metabolism; Signal transduction.
+//
+Summary: The provided gene set is predominantly involved in Mitochondrial Energy Metabolism. This includes processes such as Oxidative Phosphorylation, Citric Acid (TCA) Cycle, Respiratory Electron Transport, and Heat Production by Uncoupling Proteins. The genes are also associated with the formation of Complex I and Complex IV in oxidative phosphorylation, the tricarboxylic acid cycle, beta-oxidation of fatty acids, and the detoxification of reactive oxygen species. 
+
+Mechanism: The genes are involved in various mitochondrial processes, including energy metabolism, oxidative phosphorylation, and the TCA cycle. They contribute to the formation of Complex I and Complex IV, which are crucial for oxidative phosphorylation. Some genes are involved in the beta-oxidation of fatty acids, which generates acetyl-CoA for the TCA cycle. Others are involved in the detoxification of reactive oxygen species, which are byproducts of oxidative phosphorylation. 
+
+Enriched Terms: Mitochondrial Energy Metabolism; Oxidative Phosphorylation; Citric Acid (TCA) Cycle; Respiratory Electron Transport; Heat Production by Uncoupling Proteins; Complex I formation; Complex IV formation; Tricarboxylic acid cycle; Beta-oxidation of fatty acids; Detoxification of reactive oxygen species.
+
+GO Terms: Mitochondrion; Mitochondrial protein-containing complex; Mitochondrial membrane; Mitochondrial envelope; Mitochondrial inner membrane; Mitochondrial respiratory chain complex I; Mitochondrial complex IV assembly; Citrate cycle (TCA cycle); Fatty acid degradation; Antioxidant activity.
+//
+Summary: The provided gene set is primarily involved in programmed cell death, apoptosis, and cellular response to stress. These processes are often associated with the regulation of the cell cycle, but they do not specifically indicate cell cycle regulation. 
+
+Mechanism: The genes in this set are involved in various biological processes, including the catabolism of neurotransmitters, cellular export of cyclic nucleotides, lipid homeostasis, signaling of growth and differentiation factors, and regulation of protein-containing complex assembly. Many of these genes interact with tumor suppressor proteins and are involved in the phosphorylation of these proteins, suggesting a role in the cellular response to stress and potentially in the regulation of the cell cycle.
+
+Enriched Terms: Programmed cell death; Cell death; Apoptotic process; p53 transcriptional gene network; Cellular response to stress
+
+GO Terms: Intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator; Response to ionizing radiation; Regulation of the G1/S transition of the cell cycle; Regulation of protein-containing complex assembly; Negative regulation of calcium-independent cell-cell adhesion
+//
+Summary: The provided gene set is primarily involved in the inflammatory response and the regulation of apoptosis. The genes are also key mediators of the cellular response to chemical stimuli. Some genes encode for transcription factors that regulate the expression of a wide array of genes involved in various biological processes.
+
+Mechanism: The genes in the set are involved in various biological processes, including the inflammatory response, apoptosis, and cellular response to chemical stimuli. Some genes, such as FOS, JUN, NFKB1, RELA, and STAT5A, encode for transcription factors that regulate gene expression. Other genes, like BCL2A1, BCL3, BIRC2, and BIRC3, are involved in the regulation of apoptosis. Some genes, including CCL2, CCL4, CCL5, CXCL1, CXCL10, IL1A, IL1B, IL6, and TNF, are key mediators of the cellular response to chemical stimuli.
+
+Enriched Terms: Inflammatory response; Cellular response to chemical stimulus; Regulation of apoptosis; Transcription factor activity; Cellular response to stress.
+
+GO Terms: Interleukin-10 signaling; Cytokine activity; Cytokine receptor binding; Apoptosis modulation and signaling; Intrinsic apoptotic signaling pathway in response to DNA damage.
