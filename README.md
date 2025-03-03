@@ -8,20 +8,20 @@
 	requests-oauthlib  1.3.1
 	
 # Directory
-**apis/**: contain all python codes to access online domain databases through calling web APIs, as well as three local databases: backend_domains.tsv, backend_complex.tsv, and backend_diseases.tsv
+**apis/**: contain all python codes to access online domain databases through web APIs.
 
 **Datasets/**:
 	1. Gene Ontology/:
-		GO_terms.csv:   1000 gene set and their GO terms sampled from the Gene Ontology database.
-		GO_toy.csv:     a small subset of all gene sets to test the GeneAgent.
+	GO_terms.csv:   1000 gene set and their GO terms sampled from the Gene Ontology database.
+	GO_toy.csv:     a small subset of all gene sets to test the GeneAgent.
   
 	2. MsigDB/:
-		MsigDB.csv:     56 gene sets and their reference terms sampled from the MSigDB database.
-		MsigDB_toy.csv: a small subset of all gene sets to test the GeneAgent.
+	MsigDB.csv:     56 gene sets and their reference terms sampled from the MSigDB database.
+	MsigDB_toy.csv: a small subset of all gene sets to test the GeneAgent.
   
 	3. NeST/:
-		NeST_table.tsv: 50 proteomics set sampled from the human cancer protein system (NeST).
-		NeST_toy.tsv:   a small subset of all proteomics set to test the GeneAgent.
+	NeST_table.tsv: 50 proteomics set sampled from the human cancer protein system (NeST).
+	NeST_toy.tsv:   a small subset of all proteomics set to test the GeneAgent.
 				
 **GSEATerms/**: the siginificant enrichement terms of all 56 gene sets in MsigDB returned by g:Profiler, containing all siginificant terms, and top-1, 3, 5 enrichment terms.
 
@@ -76,4 +76,4 @@ Open ```evaluate.ipynb``` to run the corresponding cells based on your requireme
 
 
 # Demonstration website
-A demonstration website is at (https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/GeneAgent/) with an open-access permissions.
+A demonstration website is at https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/GeneAgent/ with an open-access permissions.
