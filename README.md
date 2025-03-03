@@ -27,9 +27,12 @@ NeST_toy.tsv:   a small subset of all proteomics set to test the GeneAgent.
 
 **Outputs/**:
 	1. Chain-of-Thought/: contain the results of three datasets based on the GPT-4 with chain-of-thought setting.
+ 
 	2. EnrichedTermTest/: contain the results of four different settings in summarizing multiple enrichment terms for a gene set.
+ 
 	3. GeneAgent/: 
 		Cascade: contain the results of three datasets based on the GeneAgent with cascase structure.
+  
 	4. GPT-4/: contain the results of three datasets based on the vanilla GPT-4 proposed by Hu et al.
  
 **Verification Reports**: 
