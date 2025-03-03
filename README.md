@@ -12,28 +12,31 @@
 
 **Datasets/**:
 1. Gene Ontology/:
+   
 GO_terms.csv:   1000 gene set and their GO terms sampled from the Gene Ontology database.
+
 GO_toy.csv:     a small subset of all gene sets to test the GeneAgent.
   
 2. MsigDB/:
+   
 MsigDB.csv:     56 gene sets and their reference terms sampled from the MSigDB database.
+
 MsigDB_toy.csv: a small subset of all gene sets to test the GeneAgent.
   
 3. NeST/:
+   
 NeST_table.tsv: 50 proteomics set sampled from the human cancer protein system (NeST).
+
 NeST_toy.tsv:   a small subset of all proteomics set to test the GeneAgent.
 				
 **GSEATerms/**: the siginificant enrichement terms of all 56 gene sets in MsigDB returned by g:Profiler, containing all siginificant terms, and top-1, 3, 5 enrichment terms.
 
 **Outputs/**:
-	1. Chain-of-Thought/: contain the results of three datasets based on the GPT-4 with chain-of-thought setting.
- 
-	2. EnrichedTermTest/: contain the results of four different settings in summarizing multiple enrichment terms for a gene set.
- 
-	3. GeneAgent/: 
-		Cascade: contain the results of three datasets based on the GeneAgent with cascase structure.
-  
-	4. GPT-4/: contain the results of three datasets based on the vanilla GPT-4 proposed by Hu et al.
+1. Chain-of-Thought/: contain the results of three datasets based on the GPT-4 with chain-of-thought setting.
+ 2. EnrichedTermTest/: contain the results of four different settings in summarizing multiple enrichment terms for a gene set.
+  3. GeneAgent/:
+     Cascade: contain the results of three datasets based on the GeneAgent with cascase structure.
+   4. GPT-4/: contain the results of three datasets based on the vanilla GPT-4 proposed by Hu et al.
  
 **Verification Reports**: 
 	Cascade/: contain the claims and verification reports of three datasets based on the GeneAgent with cascase structure.
