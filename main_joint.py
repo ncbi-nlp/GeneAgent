@@ -45,14 +45,11 @@ if __name__ == "__main__":
 
     ## For NeST and MsigDB
     reposits = [
-        "get_complex_ids_for_gene_set",
-        "get_disease_id_for_single_gene",
-        "get_domain_id_for_single_gene",
+        "get_complex_for_gene_set",
+        "get_disease_for_single_gene",
+        "get_domain_for_single_gene",
         "get_enrichment_for_gene_set",
         "get_pathway_for_gene_set",
-        "get_complex_names_for_complex_ids",
-        "get_disease_name_for_disease_id",
-        "get_domain_name_for_domain_id",
         "get_interactions_for_gene_set",
         "get_gene_summary_for_single_gene",
         "get_pubmed_articles"
@@ -60,14 +57,11 @@ if __name__ == "__main__":
 
     ## For Gene Ontology
     # reposits = [
-    #     "get_complex_ids_for_gene_set",
-    #     "get_disease_id_for_single_gene",
-    #     "get_domain_id_for_single_gene",
+    #     "get_complex_for_gene_set",
+    #     "get_disease_for_single_gene",
+    #     "get_domain_for_single_gene",
     #     # "get_enrichment_for_gene_set",
     #     "get_pathway_for_gene_set",
-    #     "get_complex_names_for_complex_ids",
-    #     "get_disease_name_for_disease_id",
-    #     "get_domain_name_for_domain_id",
     #     "get_interactions_for_gene_set",
     #     "get_gene_summary_for_single_gene",
     #     "get_pubmed_articles"
