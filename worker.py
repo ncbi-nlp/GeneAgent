@@ -24,30 +24,22 @@ from datetime import datetime
 
 # timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-from apis.get_complex_ids_for_gene_set import get_complex_ids_for_gene_set, get_complex_ids_for_gene_set_doc 
-from apis.get_disease_id_for_single_gene import get_disease_id_for_single_gene, get_disease_id_for_single_gene_doc
-from apis.get_domain_id_for_single_gene import get_domain_id_for_single_gene, get_domain_id_for_single_gene_doc
+from apis.get_complex_for_gene_set import get_complex_for_gene_set, get_complex_for_gene_set_doc 
+from apis.get_disease_for_single_gene import get_disease_for_single_gene, get_disease_for_single_gene_doc
+from apis.get_domain_for_single_gene import get_domain_for_single_gene, get_domain_for_single_gene_doc
 from apis.get_enrichment_for_gene_set import get_enrichment_for_gene_set, get_enrichment_for_gene_set_doc
-from apis.get_pathway_for_gene_set import get_pathway_for_gene_set, get_pathway_for_gene_set_doc
-
-from apis.get_complex_names_for_complex_ids import get_complex_names_for_complex_ids, get_complex_names_for_complex_ids_doc
-from apis.get_disease_name_for_disease_id import get_disease_name_for_disease_id, get_disease_name_for_disease_id_doc 
-from apis.get_domain_name_for_domain_id import get_domain_name_for_domain_id, get_domain_name_for_domain_id_doc   
+from apis.get_pathway_for_gene_set import get_pathway_for_gene_set, get_pathway_for_gene_set_doc 
 from apis.get_interactions_for_gene_set import get_interactions_for_gene_set, get_interactions_for_gene_set_doc
 from apis.get_gene_summary_for_single_gene import get_gene_summary_for_single_gene, get_gene_summary_for_single_gene_doc
  
 from apis.get_pubmed_articles import get_pubmed_articles, get_pubmed_articles_doc
 
 func2info = {
-    "get_complex_ids_for_gene_set": [get_complex_ids_for_gene_set, get_complex_ids_for_gene_set_doc],
-	"get_disease_id_for_single_gene": [get_disease_id_for_single_gene, get_disease_id_for_single_gene_doc],
-	"get_domain_id_for_single_gene": [get_domain_id_for_single_gene, get_domain_id_for_single_gene_doc],
+    "get_complex_for_gene_set": [get_complex_for_gene_set, get_complex_for_gene_set_doc],
+	"get_disease_for_single_gene": [get_disease_for_single_gene, get_disease_for_single_gene_doc],
+	"get_domain_for_single_gene": [get_domain_for_single_gene, get_domain_for_single_gene_doc],
 	"get_enrichment_for_gene_set": [get_enrichment_for_gene_set, get_enrichment_for_gene_set_doc],
 	"get_pathway_for_gene_set": [get_pathway_for_gene_set, get_pathway_for_gene_set_doc],
- 
-	"get_complex_names_for_complex_ids": [get_complex_names_for_complex_ids, get_complex_names_for_complex_ids_doc],
-	"get_disease_name_for_disease_id": [get_disease_name_for_disease_id, get_disease_name_for_disease_id_doc],
-	"get_domain_name_for_domain_id": [get_domain_name_for_domain_id, get_domain_name_for_domain_id_doc],
 	"get_interactions_for_gene_set": [get_interactions_for_gene_set, get_interactions_for_gene_set_doc],
 	"get_gene_summary_for_single_gene": [get_gene_summary_for_single_gene, get_gene_summary_for_single_gene_doc],
 	"get_pubmed_articles": [get_pubmed_articles, get_pubmed_articles_doc]
