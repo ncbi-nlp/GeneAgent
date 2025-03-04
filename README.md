@@ -77,20 +77,12 @@ The results will be stored accordingly.
 
 ## Example outputs
 ```
-Process: Transmembrane Receptor Protein Tyrosine Kinase Activity
-The system of interacting proteins encoded by the genes ERBB2, ERBB4, FGFR2, FGFR4, HRAS, and KRAS primarily facilitates transmembrane receptor protein tyrosine kinase activity, a critical pathway for cellular communication and regulation.
-1. **Receptor Activation and Dimerization**:
-   - **ERBB2 (HER2)**: This gene encodes a member of the epidermal growth factor receptor (EGFR) family. ERBB2 does not have a ligand binding domain of its own and cannot bind growth factors directly. Instead, it forms heterodimers with other ligand-bound EGF receptor family members, stabilizing ligand binding and enhancing kinase-mediated activation of downstream signaling pathways, such as those involving mitogen-activated protein kinase (MAPK) and phosphatidylinositol-3 kinase (PI3K) [source: RefSeq, Jul 2008].
-   - **ERBB4 (HER4)**: This gene encodes a member of the Tyr protein kinase family and the EGFR subfamily. ERBB4 binds to and is activated by neuregulins and other factors, inducing a variety of cellular responses including mitogenesis and differentiation [source: Gene Summary].
-2. **Signal Transduction**:
-   - **FGFR2 (Fibroblast Growth Factor Receptor 2)**: This gene encodes a receptor that interacts with fibroblast growth factors, initiating a cascade of downstream signals that influence mitogenesis and differentiation. FGFR2 is crucial for processes such as cell growth, differentiation, and angiogenesis [source: RefSeq, Jan 2009].
-   - **FGFR4 (Fibroblast Growth Factor Receptor 4)**: This gene encodes a receptor involved in the regulation of several pathways, including cell proliferation, differentiation, migration, lipid metabolism, and glucose uptake. FGFR4 interacts with fibroblast growth factors, setting in motion downstream signals that influence mitogenesis and differentiation [source: RefSeq, Aug 2017].
-3. **Molecular Switches**:
-   - **HRAS**: This gene encodes a small GTPase that acts as a molecular switch in RTK signaling pathways. HRAS binds GTP and GDP and has intrinsic GTPase activity, regulating cell proliferation, survival, and differentiation [source: Gene Summary].
-   - **KRAS**: This gene encodes a small GTPase involved in various malignancies. KRAS functions as a molecular switch in RTK signaling pathways, playing a role in cell proliferation, survival, and differentiation [source: RefSeq, Jul 2008].
-4. **Pathological Implications**:
-   - Dysregulation of these proteins, through overexpression, mutation, or aberrant activation, is implicated in various cancers. For instance, overexpression of ERBB2 is a well-known driver in breast cancer, while mutations in KRAS are common in pancreatic, colorectal, and lung cancers.
-In summary, the system of proteins encoded by ERBB2, ERBB4, FGFR2, FGFR4, HRAS, and KRAS orchestrates transmembrane receptor protein tyrosine kinase activity, a pivotal process for cellular communication and regulation. This pathway's precise control is vital for normal cellular function, and its dysregulation is a hallmark of many cancers.
+Process: MAPK Signaling Pathway
+The proteins encoded by the genes ERBB2, ERBB4, FGFR2, FGFR4, HRAS, and KRAS are all integral components of the MAPK signaling pathway, which is crucial for cell growth, differentiation, and survival.
+ERBB2 and ERBB4 are members of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases (RTKs). ERBB2 is unique in that it has no known ligands, and it prefers to form heterodimers with other EGFR family members, enhancing their kinase activity. ERBB4 is activated by neuregulins and other factors and induces a variety of cellular responses including mitogenesis and differentiation.
+FGFR2 and FGFR4 are part of the fibroblast growth factor receptor (FGFR) family of RTKs. They are activated by fibroblast growth factors, leading to receptor dimerization and autophosphorylation. This triggers downstream signaling pathways that regulate cellular processes such as proliferation, differentiation, and migration.
+HRAS and KRAS are GTPases that act as molecular switches in RTK signaling. They are activated by guanine nucleotide exchange factors (GEFs) that catalyze the exchange of GDP for GTP. Once activated, RAS proteins can interact with a variety of effector proteins to propagate the signal downstream.
+The interaction between these proteins forms a complex network of signaling events that regulate key cellular processes. Dysregulation of this system, such as mutations that lead to constitutive activation of RTKs or RAS proteins, can result in uncontrolled cell growth and cancer. Therefore, understanding the precise mechanisms of MAPK signaling and its regulation is crucial for the development of targeted cancer therapies.
 ```
 ## Evaluate the outputs
 Open **evaluate.ipynb** to run the corresponding cells based on your requirements.
