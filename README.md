@@ -1,3 +1,11 @@
+# Project Overview
+## Title
+GeneAgent: Self-verification Language Agent for Gene Set Analysis using Domain Databases
+## Abstract
+GeneAgent is a first-of-kinds language agent built upon GPT-4 to automatically interact with domain-specific databases to annotate functions for gene sets. GeneAgent generates interpretable and contextually accurate biological process names for user-provided gene sets, either aligning with significant enrichment analyses or introducing novel terms. At the core of GeneAgent’s functionality is a self-verification setting. This mechanism autonomously interacts with various expert-curated biological databases through Web APIs. By utilizing relevant domain-specific information, GeneAgent performs fact verification and provides objective evidence to support or refute the raw LLM output, reducing hallucination and enabling reliable, evidence-based insights into gene function.
+
+<img src="https://github.com/ncbi-nlp/GeneAgent/blob/main/workflow.geneagent.svg" width="1000">
+
 # Requirement
 	python 3.11.0
 	openai 0.28.0
@@ -7,7 +15,11 @@
 	requests  2.31.0 
 	requests-oauthlib  1.3.1
 	
-# Directory
+# Documentation
+Directory     | Detailed Information
+------------- | -------------
+apis/         | Contain all python codes to access online domain databases through web APIs.
+Datasets/     | Contain 1000 gene set and their GO terms sampled from the Gene Ontology database; 56 gene sets and their reference terms sampled from the MSigDB database; 50 proteomics set sampled from the human cancer protein system (NeST).	
 **apis/**: contain all python codes to access online domain databases through web APIs.
 **Datasets/**:
 1. Gene Ontology/:
