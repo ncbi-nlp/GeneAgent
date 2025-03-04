@@ -98,7 +98,7 @@ Open **evaluate.ipynb** to run the corresponding cells based on your requirement
 # Demonstration website
 A demonstration website with an open-access permissions is available at https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/GeneAgent/.
 <p align="center" width="50%">
-  <img width="80%" src="https://github.com/ncbi-nlp/GeneAgent/blob/main/workflow.geneagent.svg">
+  <img width="80%" src="https://github.com/ncbi-nlp/GeneAgent/blob/main/homepage.geneagent.jpg">
 </p>
 
 # Acknowledgements
