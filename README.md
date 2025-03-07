@@ -15,6 +15,7 @@ GeneAgent is a first-of-kinds language agent built upon GPT-4 to automatically i
 	pandas 2.1.4
 	requests  2.31.0 
 	requests-oauthlib  1.3.1
+ 	seaborn 0.13.2
 
 # Datasets
 - Gene Ontology: contain 1000 gene sets from the GO:BP branch of the gene ontology database
