@@ -1,0 +1,12 @@
+Process: Peroxisome Biogenesis
+
+The system of interacting proteins encoded by the genes PEX1, PEX2, PEX3, PEX4, PEX5, PEX6, PEX7, and PEX8 is primarily involved in peroxisome biogenesis, a critical cellular process for the metabolism of fatty acids and reactive oxygen species.
+
+PEX1 and PEX6 are essential for the import of peroxisomal matrix proteins, functioning as part of the peroxisome assembly machinery. They form a complex that facilitates the translocation of proteins into the peroxisome, which is crucial for maintaining peroxisomal function. Mutations in these genes lead to Zellweger syndrome, characterized by the absence of functional peroxisomes.
+
+PEX2, PEX4, and PEX8 are involved in the ubiquitination and subsequent degradation of misfolded peroxisomal proteins, ensuring quality control during peroxisome assembly. PEX2 and PEX4 work together to tag proteins for degradation, while PEX8 is implicated in the recruitment of other peroxins to the peroxisome membrane.
+
+PEX3 and PEX5 play roles in the initial steps of peroxisome formation. PEX3 is necessary for the membrane assembly of peroxisomes, while PEX5 acts as a receptor for peroxisomal matrix proteins, facilitating their import. PEX7 is involved in the import of specific proteins that contain a non-canonical peroxisomal targeting signal.
+
+Overall, the coordinated actions of these proteins ensure the proper formation and function of peroxisomes, which are vital for lipid metabolism and the detoxification of hydrogen peroxide. Disruptions in any of these genes can lead to severe metabolic disorders, underscoring their importance in cellular homeostasis.
+//

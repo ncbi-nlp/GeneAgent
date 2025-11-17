@@ -1,0 +1,30 @@
+MsigDB:69	====There are an error Invalid URL (POST /v1/engines/gpt-4o/chat/completions) here.====
+//
+MsigDB:69	====There are an error Invalid URL (POST /v1/engines/gpt-4o/chat/completions) here.====
+//
+MsigDB:69	====There are an error Invalid URL (POST /v1/engines/gpt-4o/chat/completions) here.====
+//
+MsigDB:69	====There are an error Invalid URL (POST /v1/engines/gpt-4o/chat/completions) here.====
+//
+Process: Peroxisome Biogenesis
+
+The system of interacting proteins encoded by the genes PEX1, PEX2, PEX3, PEX4, PEX5, PEX6, PEX7, and PEX8 is primarily involved in peroxisome biogenesis, a critical cellular process for the metabolism of fatty acids and reactive oxygen species.
+
+PEX1, also known as peroxisomal biogenesis factor 1, encodes a member of the AAA ATPase family. It plays a crucial role in the import of proteins into peroxisomes and peroxisome biogenesis. PEX1 is often anchored to a peroxisomal membrane where it forms a heteromeric complex, supporting its involvement in the assembly machinery of peroxisomes. Mutations in PEX1 are associated with various peroxisomal disorders, emphasizing its importance in peroxisomal function.
+
+PEX6 functions alongside PEX1 to facilitate the translocation of proteins into the peroxisome, which is crucial for maintaining peroxisomal function. PEX6 is a peroxisomal biogenesis factor that plays a direct role in peroxisomal protein import and is required for the activity of the PTS1 receptor, essential for the import of proteins into peroxisomes. Both PEX1 and PEX6 are part of the AAA ATPase family and are crucial for the proper functioning and maintenance of peroxisomes.
+
+Mutations in both PEX1 and PEX6 are associated with Zellweger syndrome, characterized by the absence of functional peroxisomes. PEX2, known as peroxisomal biogenesis factor 2, is involved in the import of peroxisomal matrix proteins, which is crucial for the proper functioning and assembly of peroxisomes. PEX2 plays a role in the quality control of peroxisomal proteins, ensuring that misfolded proteins do not accumulate.
+
+PEX4 works with PEX2 to tag proteins for degradation, playing a role in the quality control of peroxisomal proteins. PEX4 is described as an E2 ubiquitin-protein ligase, which suggests its role in tagging proteins for degradation through the ubiquitin-proteasome pathway.
+
+PEX8 is known to interact with various other genes, including PEX12, which is also involved in peroxisome assembly. The interactions of PEX8 with multiple genes suggest its role in the recruitment of peroxins to the peroxisome membrane, contributing to peroxisome assembly.
+
+PEX3, known as peroxisomal biogenesis factor 3, is involved in peroxisome biosynthesis and integrity. It assembles membrane vesicles before the translocation of matrix proteins, indicating its critical role in the initial steps of peroxisome formation. Defects in PEX3 are associated with Zellweger syndrome, further emphasizing its importance in peroxisome assembly and function.
+
+PEX5, also known as peroxisomal biogenesis factor 5, plays a crucial role in the import of peroxisomal matrix proteins. It binds to the C-terminal PTS1-type tripeptide peroxisomal targeting signal and is essential for the import of these proteins into peroxisomes. Defects in PEX5 can lead to peroxisomal biogenesis disorders.
+
+PEX7 encodes the cytosolic receptor for peroxisomal matrix enzymes that are targeted to the organelle by the peroxisome targeting signal 2 (PTS2). This indicates that PEX7 plays a crucial role in the import of proteins containing this specific targeting signal. Defects in PEX7 are associated with peroxisome biogenesis disorders.
+
+Overall, the coordinated actions of these proteins ensure the proper formation and function of peroxisomes, which are vital for cellular homeostasis.
+//

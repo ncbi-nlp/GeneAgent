@@ -1,18 +1,28 @@
 import json
+import os
 import re
 import time
 from turtle import up
-import pandas as pd
-from tqdm import tqdm
 
 import openai
-openai.api_type = "azure"
-openai.api_base = "******************"
-openai.api_version = "*******************"
-openai.api_key = "*************************" 
+import pandas as pd
+import tiktoken
+from tqdm import tqdm
+
+MAX_TOKENS = 127900
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
+if not openai.api_key:
+    raise RuntimeError("Environment variable OPENAI_API_KEY is not set.")
+
+MODEL_NAME = os.getenv("OPENAI_MODEL_NAME", "gpt-4o-mini")
+
+try:
+    encoding = tiktoken.encoding_for_model(MODEL_NAME)
+except KeyError:
+    encoding = tiktoken.get_encoding("cl100k_base")
 
 from worker import AgentPhD
-
 
 ## baseline 
 system = "You are an efficient and insightful assistant to a molecular biologist."
@@ -120,6 +130,10 @@ def GeneAgent(ID, genes):
     pattern = re.compile(r'^[a-zA-Z0-9,.;?!*()_-]+$')
     ## send genes to GPT-4 and generate the original template of process name and analysis
     try:
+        # Ensure output directories exist
+        os.makedirs("Outputs/GPT-4", exist_ok=True)
+        os.makedirs("Outputs/GeneAgent/Cascade", exist_ok=True)
+        os.makedirs("Verification Reports/Cascade", exist_ok=True)
         prompt_baseline = baseline(genes)
         first_step = prompt_baseline + system
         token_baseline = encoding.encode(first_step)
@@ -129,7 +143,7 @@ def GeneAgent(ID, genes):
             {"role":"user", "content":prompt_baseline}
         ]
         summary = openai.ChatCompletion.create(
-            engine="gpt-4o",
+            model=MODEL_NAME,
             messages=messages,
             temperature=0,
             )
@@ -150,7 +164,7 @@ def GeneAgent(ID, genes):
             {"role":"user", "content":prompt_topic}
         ]
         claims_topic = openai.ChatCompletion.create(
-            engine="gpt-4o",
+            model=MODEL_NAME,
             messages=message_topic,
             temperature=0,
             )
@@ -181,7 +195,7 @@ def GeneAgent(ID, genes):
             {"role":"user", "content": modification_prompt}
             )
         updated_topic = openai.ChatCompletion.create(
-            engine="gpt-4o",
+            model=MODEL_NAME,
             messages=messages,
             temperature=0,
         )
@@ -200,7 +214,7 @@ def GeneAgent(ID, genes):
             {"role":"user", "content":prompt_analysis}
         ]
         claims_analysis = openai.ChatCompletion.create(
-            engine="gpt-4o",
+            model=MODEL_NAME,
             messages=analysis_message,
             temperature=0,
             )
@@ -232,7 +246,7 @@ def GeneAgent(ID, genes):
             {"role":"assistant", "content":summarization_prompt }
         )
         updated = openai.ChatCompletion.create(
-            engine="gpt-4o",
+            model=MODEL_NAME,
             messages=messages,
             temperature=0,
             )
