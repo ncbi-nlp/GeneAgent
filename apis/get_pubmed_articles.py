@@ -49,13 +49,13 @@ def get_pubmed_articles(term):
 
 get_pubmed_articles_doc = {
     "name": "get_pubmed_articles",
-    "description": "Given a PubMed ID, return related PubMed articles containing titles and abstractions.",
+    "description": "Given a query, return related PubMed articles containing titles and abstractions.",
     "parameters": {
         "type": "object",
         "properties": {
             "term": {
                 "type": "string",
-                "description": "a pubmed ID to search.",
+                "description": "a query to search.",
             },
         },
         "required": ["term"],
