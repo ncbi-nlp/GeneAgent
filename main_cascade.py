@@ -11,6 +11,10 @@ openai.api_base = "******************"
 openai.api_version = "*******************"
 openai.api_key = "*************************" 
 
+import tiktoken
+MAX_TOKENS = 127900
+encoding = tiktoken.encoding_for_model("gpt-4")
+
 from worker import AgentPhD
 
 
@@ -118,12 +122,12 @@ def GeneAgent(ID, genes):
     genes = genes.replace("/",",").replace(" ",",")
     
     pattern = re.compile(r'^[a-zA-Z0-9,.;?!*()_-]+$')
-    ## send genes to GPT-4 and generate the original template of process name and analysis
+    ## send genes to GPT-4o and generate the original template of process name and analysis
     try:
         prompt_baseline = baseline(genes)
         first_step = prompt_baseline + system
-        token_baseline = encoding.encode(first_step)
-        print(f"=====The prompt tokens input to the generation step is {len(token_baseline)}=====\n")
+        # token_baseline = encoding.encode(first_step)
+        # print(f"=====The prompt tokens input to the generation step is {len(token_baseline)}=====\n")
         messages = [
             {"role":"system", "content":system},
             {"role":"user", "content":prompt_baseline}
@@ -142,7 +146,7 @@ def GeneAgent(ID, genes):
         print("=====Summary=====")
         print(summary)
         
-        # send genes and process name to GPT-4 for topic verification.
+        # send genes and process name to GPT-4o for topic verification.
         process = summary.split("\n")[0].split("Process: ")[1]
         prompt_topic = topic(genes, process) + topic_instruction
         message_topic = [
@@ -192,7 +196,7 @@ def GeneAgent(ID, genes):
         
         if not re.match(pattern, str(updated_topic)):
             updated_topic = re.sub(r'[^a-zA-Z0-9-_]+', "_", str(updated_topic))
-        # send genes and updated summary to GPT-4 for analysis verification.
+        # send genes and updated summary to GPT-4o for analysis verification.
         prompt_analysis = analysis(updated_topic) + analysis_instruction
 
         analysis_message = [
@@ -226,7 +230,7 @@ def GeneAgent(ID, genes):
             print(claim)
             print(claim_result)
             
-        ## send verificaton report to GPT-4 and modify the gene analysis
+        ## send verificaton report to GPT-4o and modify the gene analysis
         summarization_prompt = summarization(verification_analysis) + summarization_instruction
         messages.append(
             {"role":"assistant", "content":summarization_prompt }
